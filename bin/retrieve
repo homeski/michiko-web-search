@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cd doc/
+rm -fv *
+
+cat ../seeds.txt | while read line
+do
+   if ! [[ $line =~ (<!--).*(-->) ]]; then
+   	wget $line
+   fi
+done
+

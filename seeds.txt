@@ -1,0 +1,34 @@
+http://feeds.feedburner.com/TheCreativePenn?format=xml
+http://feeds.feedburner.com/ThePassiveVoice?format=xml
+http://awesomeindies.net/feed/
+<!-- https://www.goodreads.com/blog/list_rss.xml --> <!-- Non standard XML feed?? -->
+http://feeds.feedburner.com/Smashwords?format=xml
+http://feeds.feedburner.com/blogspot/Ufqq?format=xml
+http://wordservewatercooler.com/feed/
+<!-- http://blog.authonomy.com/feeds/posts/default --> <!-- Uses entry instead of item -->
+http://thewritelife.com/feed/
+http://feeds.feedburner.com/PolishAndPublishToolsAndTacticsForCreativeWriters?format=xml
+http://feeds.feedburner.com/MarinBookworks?format=xml
+http://feeds.feedburner.com/NathanBransford?format=xml
+http://theeditorsblog.net/feed/
+http://www.selfpublishingadvice.org/feed/
+http://allindiewriters.com/feed/
+http://www.publishersweekly.com/pw/feeds/recent/index.xml
+http://feeds.feedburner.com/GoinsWriter?format=xml
+http://writershelpingwriters.net/feed/
+http://feeds.copyblogger.com/copyblogger&x=1
+http://feeds.feedburner.com/WriterUnboxed?format=xml
+http://www.makealivingwriting.com/feed/
+<!-- http://www.darcypattison.com/?feed --> <!-- Feed is actually an HTML page -->
+<!-- http://jakonrath.blogspot.com/feeds/posts/default --> <!-- Uses entry instead of item -->
+http://www.makealivingwriting.com/feed/
+http://www.helpingwritersbecomeauthors.com/feed
+http://feeds.feedburner.com/LiveWriteThrive?format=xml
+http://writersinnerjourney.com/feed
+http://feeds.feedburner.com/BestsellerLabs?format=xml
+http://feeds.feedburner.com/WritersAndAuthors?format=xml
+http://www.qdnow.com/grammar.xml
+<!-- http://thewriteconversation.blogspot.com/feeds/posts/default --> <!-- Uses entry instead of item -->
+http://elizabethspanncraig.com/feed/
+http://feeds.feedburner.com/LindsayBuroker?format=xml
+<!-- http://hiveword.com/wkb/search --> <!-- Not actually a feed -->
