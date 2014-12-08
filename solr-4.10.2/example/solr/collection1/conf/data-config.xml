@@ -32,6 +32,7 @@
                 <field column="slash-section" xpath="/rss/channel/item/section" />
                 <field column="slash-comments" xpath="/rss/channel/item/comments" /> -->
                 <field column="content" xpath="/rss/channel/item/encoded"/>
+                <field column="description" xpath="/rss/channel/item/description"/>
             </entity>
         </entity>
     </document>

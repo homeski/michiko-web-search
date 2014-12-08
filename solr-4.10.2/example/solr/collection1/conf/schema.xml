@@ -118,6 +118,7 @@
             indexed="true"/>
         <field name="updatedDate" type="date" stored="true"
             indexed="true"/>
+        <field name="description" type="html" stored="true" indexed="true"/>
 
         <!-- fields for creativecommons plugin -->
         <field name="cc" type="string" stored="true" indexed="true"
