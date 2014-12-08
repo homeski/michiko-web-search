@@ -1,12 +1,16 @@
 #!/bin/bash
 
 cd solr-4.10.2/example/doc/
-rm -fv *
 
-cat ../../../seeds.txt | while read line
+DATE=`date +%y%m%d%s`
+
+mkdir $DATE
+cd $DATE
+
+cat ../../../../seeds.txt | while read line
 do
    if ! [[ $line =~ (<!--).*(-->) ]]; then
-   	wget $line
+   	wget --no-use-server-timestamps $line
    fi
 done
 
