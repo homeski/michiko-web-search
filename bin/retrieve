@@ -1,9 +1,9 @@
 #!/bin/bash
 
-cd doc/
+cd solr-4.10.2/example/doc/
 rm -fv *
 
-cat ../seeds.txt | while read line
+cat ../../../seeds.txt | while read line
 do
    if ! [[ $line =~ (<!--).*(-->) ]]; then
    	wget $line

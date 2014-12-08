@@ -6,13 +6,134 @@
 	
 	<link>http://www.thepassivevoice.com</link>
 	<description>A blog about Writers, Writing, Publishing, Disruptive Change and the Universe</description>
-	<lastBuildDate>Sat, 06 Dec 2014 19:00:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Dec 2014 20:59:01 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	
 <xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
 	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ThePassiveVoice" /><feedburner:info uri="thepassivevoice" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>ThePassiveVoice</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FThePassiveVoice" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://feedly.com/#subscription/feed/http://feeds.feedburner.com/ThePassiveVoice" src="http://s3.feedly.com/feedburner/feedly.png">Subscribe with Feedly</feedburner:feedFlare><feedburner:feedFlare href="https://www.subtome.com/#/subscribe?feeds=http%3A%2F%2Ffeeds.feedburner.com%2FThePassiveVoice" src="http://www.subtome.com/subtome-feedburner.png">Subscribe with SubToMe</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/ThePassiveVoice" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FThePassiveVoice" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FThePassiveVoice" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FThePassiveVoice" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+		<title>Flickr’s Wall Art Program Exposes Weaknesses in Licensing Automation</title>
+		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/RtxnVloMPfU/</link>
+		<comments>http://www.thepassivevoice.com/12/2014/flickrs-wall-art-program-exposes-weaknesses-in-licensing-automation/#comments</comments>
+		<pubDate>Sun, 07 Dec 2014 20:59:01 +0000</pubDate>
+		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
+				<category><![CDATA[Copyright]]></category>
+
+		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58573</guid>
+		<description><![CDATA[From Copyright and Technology: Suppose you’re a musician.  You put your songs up on SoundCloud to get exposure for them.  Then you find out that SoundCloud has started a program for selling your music as high-quality CDs and giving you none of the proceeds.  Or suppose you’re a writer who put your serialized novel up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From Copyright and Technology:</p>
+<blockquote><p>Suppose you’re a musician.  You put your songs up on SoundCloud to get exposure for them.  Then you find out that SoundCloud has started a program for selling your music as high-quality CDs and giving you none of the proceeds.  Or suppose you’re a writer who put your serialized novel up on WattPad; then you find out that WattPad has started selling it in a coffee-table-worthy hardcover edition and not sharing revenue with you.  You’d be pretty upset, right?</p>
+<p>Those are rough equivalents of what Flickr, the Yahoo-owned photo-sharing site, has been doing with its Flickr Wall Art program.  Flickr Wall Art started out, back in October, as a way for users to order professional-quality hangable prints of their own photos, in the same way that a site like Zazzle lets users make t-shirts or coffee mugs with their images on them (or Lulu publishes printed books).</p>
+<p>More recently, Flickr expanded the Wall Art program to let users order framed prints of any of tens of millions of images that users uploaded to the site.  This has raised the ire of some of the professional photographers who post their images on Flickr for the same reason that musicians post music on SoundCloud and similar sites: to expose their art to the public.</p>
+<p>The core issue here is the license terms under which users upload their images to Flickr.  Like SoundCloud, Flickr offers users the option of choosing a Creative Commons license when they upload their work.  Many Flickr users do this in order to encourage other users to share their images and thereby increase their exposure — so that, perhaps, some magazine editor or advertising art director will see their work and pay them for it.</p>
+<p>The fact that a hosting website might exploit a Creative Commons-licensed work for its own commercial gain doesn’t sit right with many content creators, who have operated under two assumptions that, as Flickr has shown, are naive.  One is that these big Internet sites just want to get users to contribute content in order to build their audience and that they will make money some other way, such as through premium memberships or advertising.  The other is that Creative Commons licenses are some sort of magic bullet that help artists get exposure for their work while preventing unfair commercial exploitation of it.</p>
+<p>Let’s get one thing out of the way: as others have pointed out, what Flickr is doing is perfectly legal.  It takes advantage of the fact that many users upload photos to the site under Creative Commons licenses that allow others to exploit them commercially — which three out of the six Creative Commons license options do.  It seems that many photographers choose one of those licenses when they upload their work and don’t think too much about the consequences.</p>
+<p>. . . .</p>
+<p>Flickr is — still, after ten years of existence — a major outlet for photos online. As such, Flickr has the means to control, to some extent, what happens to the images posted on its service; and with Flickr Marketplace, it is effectively wresting some control of commercial licensing opportunities away from photographers. Some degree of control over content distribution and use does exist on the Internet, even if copyright law itself doesn’t contribute directly to that control.</p>
+<p>. . . .</p>
+<p>The problem here is the lack of both flexibility and infrastructure for commercial licensing in the Creative Commons ecosystem. Creative Commons is a clever and highly successful way of bringing some degree of badly-needed rationalization and automation to the abstruse world of content licensing. But it gives creators hardly any options for commercial exploitation of their works.</p></blockquote>
+<p>Link to the rest at <a href="http://copyrightandtechnology.com/2014/12/07/flickrs-wall-art-program-exposes-weaknesses-in-licensing-automation/"  target="_blank" rel="nofollow">Copyright and Technology</a></p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=RtxnVloMPfU:25ydrCOjSO4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=RtxnVloMPfU:25ydrCOjSO4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=RtxnVloMPfU:25ydrCOjSO4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=RtxnVloMPfU:25ydrCOjSO4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=RtxnVloMPfU:25ydrCOjSO4:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=RtxnVloMPfU:25ydrCOjSO4:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/RtxnVloMPfU" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/flickrs-wall-art-program-exposes-weaknesses-in-licensing-automation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/flickrs-wall-art-program-exposes-weaknesses-in-licensing-automation/</feedburner:origLink></item>
+		<item>
+		<title>In crowded rooms</title>
+		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/GsPGSYIzTG4/</link>
+		<comments>http://www.thepassivevoice.com/12/2014/in-crowded-rooms/#comments</comments>
+		<pubDate>Sun, 07 Dec 2014 18:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
+				<category><![CDATA[Quotes]]></category>
+
+		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58491</guid>
+		<description><![CDATA[In crowded rooms they would form words with their lips for each other’s eyes. F. Scott Fitzgerald]]></description>
+				<content:encoded><![CDATA[<p>In crowded rooms they would form words with their lips for each other’s eyes.</p>
+<p style="padding-left: 240px;">F. Scott Fitzgerald</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=GsPGSYIzTG4:hJyey7S1KDA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=GsPGSYIzTG4:hJyey7S1KDA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=GsPGSYIzTG4:hJyey7S1KDA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=GsPGSYIzTG4:hJyey7S1KDA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=GsPGSYIzTG4:hJyey7S1KDA:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=GsPGSYIzTG4:hJyey7S1KDA:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/GsPGSYIzTG4" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/in-crowded-rooms/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/in-crowded-rooms/</feedburner:origLink></item>
+		<item>
+		<title>Why zombie ebooks are killing it on Kindle</title>
+		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/G53-2A27r0A/</link>
+		<comments>http://www.thepassivevoice.com/12/2014/why-zombie-ebooks-are-killing-it-on-kindle/#comments</comments>
+		<pubDate>Sun, 07 Dec 2014 17:24:55 +0000</pubDate>
+		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
+				<category><![CDATA[Self-Publishing]]></category>
+
+		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58571</guid>
+		<description><![CDATA[From The Daily Dot: In some ways, Jeremy Laszlo owes much of his career as a novelist to an intern in New York whom he’s never met before. Back in 2012, after speaking to literary agents and conducting research on the publishing industry, Laszlo submitted some of his manuscripts to several large book publishers. And [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From The Daily Dot:</p>
+<blockquote><p>In some ways, Jeremy Laszlo owes much of his career as a novelist to an intern in New York whom he’s never met before. Back in 2012, after speaking to literary agents and conducting research on the publishing industry, Laszlo submitted some of his manuscripts to several large book publishers. And then one day soon after, he received a reply in his email inbox. “It was supposed to be an interoffice email from the publishing house I had submitted to,” Laszlo told me in a phone interview. “And it was a couple of their interns joking back and forth. One of them said, ‘I just batch-rejected 600 authors.’ But they accidentally hit reply all and all the authors were included. They were joking about how they weren’t even reading any of the submissions. At that point, I was like, ‘You know what, I’m not going to bother with that anymore.’”</p>
+<p>. . . .</p>
+<p>“I’ve always been a huge fan of fantasy, and that was my plan all along to write fantasy books,” he said. “And then Amazon started changed things and I realized that I needed to diversify, and to do that I figured I would move into other popular categories, like zombies.”</p>
+<p>I was first clued in to the zombie phenomenon on Kindle a few months ago while visiting family in Texas. My aunt mentioned she was addicted to reading zombie ebooks. I asked her which ones. “I just do a search for the word ‘zombie’ and start downloading them,” she said. She mentioned that most of the authors she read didn’t have a publisher. Intrigued, when I returned home I did a search on the Kindle store, and, sure enough, I found an array of zombie ebooks, nearly all by self-published authors, and many with hundreds of customer reviews (an indication that a title has sold well).</p>
+<p>Why do zombie novels do so well?</p>
+<p>“Zombie fiction is a strange beast,” said Al K Line, author of an ongoing series called  <em>Zombie Botnet</em>. “At first glance you may think it is just about the blood and the guts, but it goes far beyond that. … The undead are the perfect platform for social commentary, to write stories about friendship, love, the human spirit and how people react under extreme duress.”</p>
+<p>. . . .</p>
+<p>Whatever the reason, horror fiction is thriving on Kindle, and a sizable portion of ebook readers are drawn to the zombie subgenre. What’s more, most of the authors I interviewed for this story stumbled into their success, navigating by trial and error until they suddenly found themselves with thousands of ravenous fans, eager to consume the next books in their series.</p>
+<p>Bobby Adair first got the idea to try out writing in the genre from his wife. “I was reading a zombie book that I didn’t like,” he recalled. “The ebook was rated fairly well on Amazon, and I was like, ‘This isn’t very good,’ and I was complaining to her about it when we were driving on the road. I think I might have said, ‘I can write better than this,’ and she said, ‘Why don’t you?’ She kind of put me on the spot. I thought, ‘Well why not?’”</p></blockquote>
+<p>Link to the rest at <a href="http://www.dailydot.com/geek/kindle-zombie-ebooks-success/"  target="_blank" rel="nofollow">The Daily Dot</a> and thanks to Scath for the tip.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=G53-2A27r0A:LvTJ3nli-ZE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=G53-2A27r0A:LvTJ3nli-ZE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=G53-2A27r0A:LvTJ3nli-ZE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=G53-2A27r0A:LvTJ3nli-ZE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=G53-2A27r0A:LvTJ3nli-ZE:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=G53-2A27r0A:LvTJ3nli-ZE:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/G53-2A27r0A" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/why-zombie-ebooks-are-killing-it-on-kindle/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/why-zombie-ebooks-are-killing-it-on-kindle/</feedburner:origLink></item>
+		<item>
+		<title>Douglas Preston on Amazon, Authors United, and What’s Next</title>
+		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/H-fZf8ND_rw/</link>
+		<comments>http://www.thepassivevoice.com/12/2014/douglas-preston-on-amazon-authors-united-and-whats-next/#comments</comments>
+		<pubDate>Sun, 07 Dec 2014 17:16:36 +0000</pubDate>
+		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58569</guid>
+		<description><![CDATA[From Publishers Weekly: Throughout the months-long dispute between Amazon and Hachette over e-book sales terms, Douglas Preston was one of the most outspoken authors on the matter. He went so far as to form a group to give authors a voice in the stalemate: Authors United. . . . . “I came into this a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From Publishers Weekly:</p>
+<blockquote><p>Throughout the months-long dispute between Amazon and Hachette over e-book sales terms, Douglas Preston was one of the most outspoken authors on the matter. He went so far as to form a group to give authors a voice in the stalemate: Authors United.</p>
+<p>. . . .</p>
+<p>“I came into this a loyal Amazon customer, grateful to Amazon for selling my books,” said Preston. During the dispute, his then-forthcoming novel Blue Labyrinth (Nov., HBG), cowritten with Lincoln Child, looked like it could suffer collateral damage when Amazon removed the buy buttons for preorders and slowed shipping for Hachette titles—but he said that wasn’t his concern for starting Authors United.</p>
+<p>. . . .</p>
+<p class="article">Preston said he was “shocked” by the decline in sales overall for Hachette titles through Amazon. To convey the scale of Amazon’s so-called shenanigans, Preston said that Amazon had to order more than one million copies of Hachette titles to restock after the two companies settled their differences. More than 3,000 authors and 8,000 titles were affected, and it took two weeks, from November 12 to November 26, the day before Thanksgiving, for Amazon to bring its inventory back to pre-sanction levels, he said.</p>
+<p class="article">Preston’s disillusionment with Amazon dates back to his first phone call with Russ Grandinetti, Amazon’s senior v-p of Kindle content, when Preston thought that if Amazon understood how bad they were hurting authors they would change their tactics. Preston said that authors tend to think of their books like children, so Amazon’s actions struck especially close to the bone and felt, to many, like a personal attack. It wasn’t until the end of the conversation that Preston realized, to Amazon, books are a commodity like TV sets and diapers. “Amazon started with the assumption that all the authors wanted was money,” said Preston. “What we really want is an audience and to get people to read our books.”</p>
+</blockquote>
+<p>Link to the rest at <a href="http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/64970-douglas-preston-on-amazon-authors-united-and-what-s-next.html"  target="_blank" rel="nofollow">Publishers Weekly</a> and thanks to Dave for the tip.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=H-fZf8ND_rw:HngQuYUf7uU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=H-fZf8ND_rw:HngQuYUf7uU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=H-fZf8ND_rw:HngQuYUf7uU:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=H-fZf8ND_rw:HngQuYUf7uU:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=H-fZf8ND_rw:HngQuYUf7uU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=H-fZf8ND_rw:HngQuYUf7uU:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/H-fZf8ND_rw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/douglas-preston-on-amazon-authors-united-and-whats-next/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/douglas-preston-on-amazon-authors-united-and-whats-next/</feedburner:origLink></item>
+		<item>
+		<title>Zoella Sugg, online queen and fastest-selling debut novelist</title>
+		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/gqqdO1bwyeE/</link>
+		<comments>http://www.thepassivevoice.com/12/2014/zoella-sugg-online-queen-and-fastest-selling-debut-novelist/#comments</comments>
+		<pubDate>Sun, 07 Dec 2014 15:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
+				<category><![CDATA[Advertising-Promotion]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58562</guid>
+		<description><![CDATA[From The Guardian: The internet has brought a great many things into this world, from social networking, email and memes to online dating and even arguably revolution. It has also given us Zoella. Zoella, or Zoe Sugg as she is known offline, is one of a new breed of online celebrities, an expanding group of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>From The Guardian:</p>
+<blockquote><p>The internet has brought a great many things into this world, from social networking, email and memes to online dating and even arguably revolution. It has also given us Zoella. Zoella, or Zoe Sugg as she is known offline, is one of a new breed of online celebrities, an expanding group of video bloggers – or vloggers as they are more formally known – who, thanks to their YouTube channels, have developed a worldwide following to rival that of Beyoncé or even Taylor Swift.</p>
+<p>The 24-year-old, who has emerged at the head of the pack (she was recently described by Vogue as the queen of the internet), has had almost 307m views of her intimate videos dispensing beauty and life advice; 6.6 million people subscribe to her channel. And now, her first book, Girl Online, the fictional tale of a blogger, has become the fastest selling debut novel ever – selling 78,000 copies in its first week and eclipsing the debuts of JK Rowling and EL James.</p>
+<p>. . . .</p>
+<p>Just how a fashion student from a small village in Wiltshire has come to define the zeitgeist is a testament to the DIY spirit that online platforms such as YouTube promote.</p></blockquote>
+<p>Link to the rest at <a href="http://www.theguardian.com/technology/2014/dec/05/zoella-sugg-internet-queen-fastest-selling-novel-youtube"  target="_blank" rel="nofollow">The Guardian</a> and thanks to Robert for the tip.</p>
+<div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=gqqdO1bwyeE:ML4hd3RVH_I:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=gqqdO1bwyeE:ML4hd3RVH_I:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=gqqdO1bwyeE:ML4hd3RVH_I:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=gqqdO1bwyeE:ML4hd3RVH_I:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=gqqdO1bwyeE:ML4hd3RVH_I:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=gqqdO1bwyeE:ML4hd3RVH_I:gIN9vFwOqvQ" border="0"></img></a>
+</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/gqqdO1bwyeE" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/zoella-sugg-online-queen-and-fastest-selling-debut-novelist/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/zoella-sugg-online-queen-and-fastest-selling-debut-novelist/</feedburner:origLink></item>
+		<item>
 		<title>From Self-Publishing To Querying: The Journey Of A Young Writer</title>
 		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/X0OpqIXc3f0/</link>
 		<comments>http://www.thepassivevoice.com/12/2014/from-self-publishing-to-querying-the-journey-of-a-young-writer/#comments</comments>
@@ -44,7 +165,7 @@
 <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=X0OpqIXc3f0:cC16QRkSL0Y:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=X0OpqIXc3f0:cC16QRkSL0Y:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=X0OpqIXc3f0:cC16QRkSL0Y:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=X0OpqIXc3f0:cC16QRkSL0Y:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=X0OpqIXc3f0:cC16QRkSL0Y:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=X0OpqIXc3f0:cC16QRkSL0Y:gIN9vFwOqvQ" border="0"></img></a>
 </div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/X0OpqIXc3f0" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/from-self-publishing-to-querying-the-journey-of-a-young-writer/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>28</slash:comments>
 		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/from-self-publishing-to-querying-the-journey-of-a-young-writer/</feedburner:origLink></item>
 		<item>
 		<title>After a moment’s reflection</title>
@@ -62,7 +183,7 @@
 <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=ONkB0pwoT6Q:yADbyLFkFIs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=ONkB0pwoT6Q:yADbyLFkFIs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=ONkB0pwoT6Q:yADbyLFkFIs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=ONkB0pwoT6Q:yADbyLFkFIs:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=ONkB0pwoT6Q:yADbyLFkFIs:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=ONkB0pwoT6Q:yADbyLFkFIs:gIN9vFwOqvQ" border="0"></img></a>
 </div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/ONkB0pwoT6Q" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/after-a-moments-reflection/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>1</slash:comments>
 		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/after-a-moments-reflection/</feedburner:origLink></item>
 		<item>
 		<title>Kindle Needs A “Subscribe To Author” Button</title>
@@ -89,7 +210,7 @@
 <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Z-VYHWDvuSY:bXTTxzlX8Dw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Z-VYHWDvuSY:bXTTxzlX8Dw:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Z-VYHWDvuSY:bXTTxzlX8Dw:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=Z-VYHWDvuSY:bXTTxzlX8Dw:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Z-VYHWDvuSY:bXTTxzlX8Dw:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=Z-VYHWDvuSY:bXTTxzlX8Dw:gIN9vFwOqvQ" border="0"></img></a>
 </div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/Z-VYHWDvuSY" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/kindle-needs-a-subscribe-to-author-button/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
+		<slash:comments>27</slash:comments>
 		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/kindle-needs-a-subscribe-to-author-button/</feedburner:origLink></item>
 		<item>
 		<title>Hachette Had An EBookstore Which Could Go Head-To-Head With Amazon, But They Won’t Launch It</title>
@@ -122,7 +243,7 @@
 <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=T9Jsni_6y-8:_U-_8b5NHJU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=T9Jsni_6y-8:_U-_8b5NHJU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=T9Jsni_6y-8:_U-_8b5NHJU:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=T9Jsni_6y-8:_U-_8b5NHJU:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=T9Jsni_6y-8:_U-_8b5NHJU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=T9Jsni_6y-8:_U-_8b5NHJU:gIN9vFwOqvQ" border="0"></img></a>
 </div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/T9Jsni_6y-8" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/hachette-had-an-ebookstore-which-could-go-head-to-head-with-amazon-but-they-wont-launch-it/feed/</wfw:commentRss>
-		<slash:comments>9</slash:comments>
+		<slash:comments>33</slash:comments>
 		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/hachette-had-an-ebookstore-which-could-go-head-to-head-with-amazon-but-they-wont-launch-it/</feedburner:origLink></item>
 		<item>
 		<title>The New World of Writing: Pulp Speed</title>
@@ -164,138 +285,7 @@
 <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=TNphfQZA-K0:y7Ltz08GMWU:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=TNphfQZA-K0:y7Ltz08GMWU:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=TNphfQZA-K0:y7Ltz08GMWU:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=TNphfQZA-K0:y7Ltz08GMWU:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=TNphfQZA-K0:y7Ltz08GMWU:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=TNphfQZA-K0:y7Ltz08GMWU:gIN9vFwOqvQ" border="0"></img></a>
 </div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/TNphfQZA-K0" height="1" width="1" alt=""/>]]></content:encoded>
 			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/the-new-world-of-writing-pulp-speed/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
+		<slash:comments>56</slash:comments>
 		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/the-new-world-of-writing-pulp-speed/</feedburner:origLink></item>
-		<item>
-		<title>Library contest aims to bring fame to self-published author</title>
-		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/IeNEtL96rko/</link>
-		<comments>http://www.thepassivevoice.com/12/2014/library-contest-aims-to-bring-fame-to-self-published-author/#comments</comments>
-		<pubDate>Sat, 06 Dec 2014 14:00:03 +0000</pubDate>
-		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
-				<category><![CDATA[Libraries]]></category>
-		<category><![CDATA[Self-Publishing]]></category>
-
-		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58532</guid>
-		<description><![CDATA[From The Chicago Tribune: Public libraries in Illinois once again are seeking to bring an author laboring in relative obscurity into the limelight. For the second year in a row, the libraries are hosting The Soon to be Famous Illinois Author project that will choose a self-published Illinois author&#8217;s work for a year of book [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>From The Chicago Tribune:</p>
-<blockquote><p>Public libraries in Illinois once again are seeking to bring an author laboring in relative obscurity into the limelight.</p>
-<p>For the second year in a row, the libraries are hosting The Soon to be Famous Illinois Author project that will choose a self-published Illinois author&#8217;s work for a year of book talks, author events and other promotions in Illinois public libraries.</p>
-<p>Illinois authors who have self-published an adult fiction book are encouraged to enter the second year of the Soon to be Famous Illinois Author project until Dec. 15. The winner of the Soon to be Famous Illinois Author Project will spend a year being promoted in libraries throughout the state, participating in book signings, special presentations, media interviews, and conference appearances.</p>
-<p>. . . .</p>
-<p>&#8220;Librarians are all about connecting readers with books (or viewers with films, etc.),&#8221; said Dee Brennan, executive director of RAILS, a regional library system, in an email. &#8220;It&#8217;s our job to seek out the best books we can and deliver them to readers. We need to look beyond the traditional publishing world to include and support the aspiring authors who haven&#8217;t been able to break through the publishing &#8216;wall.&#8217; Who knows when we will find the next Gillian Flynn?&#8221;</p>
-<p>The project was the brainchild of a group of library marketing professionals who were inspired by remarks made by New York University professor David Vinjamuri about the importance of libraries in an era of E-books, said Christine Cigler, marketing manager of the Fox River Valley Public Library District.</p>
-<p>She said Vinjamuri challenged libraries to bring attention to a self-published Illinois author and demonstrate the influence libraries and librarians have over the public&#8217;s reading selections.</p></blockquote>
-<p>Link to the rest at <a href="http://www.chicagotribune.com/suburbs/hinsdale-clarendon-hills-oak-brook/ct-illinois-author-contest-hinsdale-tl-1204-20141204-story.html"  target="_blank" rel="nofollow">The Chicago Tribune</a></p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=IeNEtL96rko:5opAQjKHQfk:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=IeNEtL96rko:5opAQjKHQfk:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=IeNEtL96rko:5opAQjKHQfk:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=IeNEtL96rko:5opAQjKHQfk:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=IeNEtL96rko:5opAQjKHQfk:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=IeNEtL96rko:5opAQjKHQfk:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/IeNEtL96rko" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/library-contest-aims-to-bring-fame-to-self-published-author/feed/</wfw:commentRss>
-		<slash:comments>11</slash:comments>
-		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/library-contest-aims-to-bring-fame-to-self-published-author/</feedburner:origLink></item>
-		<item>
-		<title>What the industry learned in 2014</title>
-		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/qUeE8p7-huA/</link>
-		<comments>http://www.thepassivevoice.com/12/2014/what-the-industry-learned-in-2014/#comments</comments>
-		<pubDate>Fri, 05 Dec 2014 19:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
-				<category><![CDATA[Big Publishing]]></category>
-		<category><![CDATA[Non-US]]></category>
-
-		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58527</guid>
-		<description><![CDATA[From The Bookseller: The discovery of talent via YouTube, a resurgence at Waterstones, the long-running Amazon/Hachette terms dispute and the thinning out of independent publisher numbers were among the significant developments in 2014, according to prominent figures in the industry. . . . . It was a &#8220;tough&#8221; year, according to Pan Macmilllan m.d. Anthony [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>From The Bookseller:</p>
-<blockquote><p>The discovery of talent via YouTube, a resurgence at Waterstones, the long-running Amazon/Hachette terms dispute and the thinning out of independent publisher numbers were among the significant developments in 2014, according to prominent figures in the industry.</p>
-<p>. . . .</p>
-<p>It was a &#8220;tough&#8221; year, according to Pan Macmilllan m.d. Anthony Forbes Watson, given the year-on-year drop in Nielsen BookScan TCM figures matched with a flattening of e-book growth, but one which brought focus back to &#8220;the fundamentals of publishing&#8221;. PRH UK&#8217;s Weldon said publishing had demonstrated &#8220;its resilience, its diversity and its deep-rooted cultural relevance&#8221;, despite a &#8220;tough&#8221; UK market, which meant growth came mainly in children&#8217;s and export.</p>
-<p>There was widespread consensus that big names and brands became even more important: S&amp;S UK&#8217;s Ian Chapman reflected on their &#8220;ever-increasing dominance&#8221; and the impact of the big YA and adult films on book sales. HarperCollins Childrens Books publisher Ann-Janine Murtagh agreed, saying: &#8220;In 2014 the big brands have just got even bigger, and brands are now focused on quality storytelling.&#8221; It was also the year the market learned what a vlogger was, noted Bell Lomax Moreton&#8217;s Paul Moreton. Yet the lack of any single publishing &#8220;phenomenon&#8221; &#8211; Minecraft books aside – had left &#8220;oxygen for other books&#8221;, according to Orion General m.d. Lisa Milton.</p>
-<p>Fears for the future of independent publishing were raised, with Alma Books&#8217; Alessandro Gallenzi referring to &#8220;an eerie atmosphere of impending doom&#8221; among his indie peers.</p></blockquote>
-<p>Link to the rest at <a href="http://www.thebookseller.com/news/what-industry-learned-2014"  target="_blank" rel="nofollow">The Bookseller</a></p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=qUeE8p7-huA:Tu703RnV5wc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=qUeE8p7-huA:Tu703RnV5wc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=qUeE8p7-huA:Tu703RnV5wc:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=qUeE8p7-huA:Tu703RnV5wc:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=qUeE8p7-huA:Tu703RnV5wc:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=qUeE8p7-huA:Tu703RnV5wc:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/qUeE8p7-huA" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/what-the-industry-learned-in-2014/feed/</wfw:commentRss>
-		<slash:comments>36</slash:comments>
-		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/what-the-industry-learned-in-2014/</feedburner:origLink></item>
-		<item>
-		<title>Black Friday: Amazon UK has ‘busiest day on record’</title>
-		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/Ng-nH9zNQTU/</link>
-		<comments>http://www.thepassivevoice.com/12/2014/black-friday-amazon-uk-has-busiest-day-on-record/#comments</comments>
-		<pubDate>Fri, 05 Dec 2014 18:09:49 +0000</pubDate>
-		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
-				<category><![CDATA[Amazon]]></category>
-
-		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58407</guid>
-		<description><![CDATA[From The BBC: Black Friday was the busiest day on record for online retailer Amazon UK, with sales that &#8220;surpassed all expectations&#8221;, the company has said. Its website recorded orders for more than 5.5 million goods, with about 64 items sold per second. Amazon said the public&#8217;s appetite for Black Friday was &#8220;bigger than ever&#8221;. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>From The BBC:</p>
-<blockquote><p>Black Friday was the busiest day on record for online retailer Amazon UK, with sales that &#8220;surpassed all expectations&#8221;, the company has said.</p>
-<p>Its website recorded orders for more than 5.5 million goods, with about 64 items sold per second.</p>
-<p>Amazon said the public&#8217;s appetite for Black Friday was &#8220;bigger than ever&#8221;.</p>
-<p>. . . .</p>
-<p>Xavier Garambois, who is vice-president of EU retail at Amazon, said: &#8220;Ever since we introduced Black Friday to the UK in 2010, sales have increased year-on-year but this year really has surpassed all of our expectations.</p>
-<p>&#8220;The public&#8217;s appetite for Black Friday has been bigger than ever, kicking off the Christmas shopping period in earnest and establishing Black Friday as a fixture on the UK Christmas shopping calendar.&#8221;</p>
-<p>While last year&#8217;s Black Friday was also a record for Amazon UK, that was surpassed on Cyber Monday 2013, when more than 4.1 million items were ordered at a rate of some 47 purchases per second.</p></blockquote>
-<p>Link to the rest at <a href="http://www.bbc.com/news/business-30260103"  target="_blank" rel="nofollow">BBC</a> and thanks to Lexi for the tip. Lexi also observes that Amazon boycotts in the UK don&#8217;t seem to be very effective.</p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Ng-nH9zNQTU:kNzjbbPGddM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Ng-nH9zNQTU:kNzjbbPGddM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Ng-nH9zNQTU:kNzjbbPGddM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=Ng-nH9zNQTU:kNzjbbPGddM:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=Ng-nH9zNQTU:kNzjbbPGddM:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=Ng-nH9zNQTU:kNzjbbPGddM:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/Ng-nH9zNQTU" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/black-friday-amazon-uk-has-busiest-day-on-record/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
-		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/black-friday-amazon-uk-has-busiest-day-on-record/</feedburner:origLink></item>
-		<item>
-		<title>I like smooth</title>
-		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/VshSIiathDQ/</link>
-		<comments>http://www.thepassivevoice.com/12/2014/i-like-smooth/#comments</comments>
-		<pubDate>Fri, 05 Dec 2014 18:00:17 +0000</pubDate>
-		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
-				<category><![CDATA[Quotes]]></category>
-
-		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58485</guid>
-		<description><![CDATA[I like smooth shiny girls, hardboiled and loaded with sin. Raymond Chandler]]></description>
-				<content:encoded><![CDATA[<p>I like smooth shiny girls, hardboiled and loaded with sin.</p>
-<p style="padding-left: 180px;">Raymond Chandler</p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=VshSIiathDQ:PKS1xDRLsH0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=VshSIiathDQ:PKS1xDRLsH0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=VshSIiathDQ:PKS1xDRLsH0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=VshSIiathDQ:PKS1xDRLsH0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=VshSIiathDQ:PKS1xDRLsH0:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=VshSIiathDQ:PKS1xDRLsH0:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/VshSIiathDQ" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/i-like-smooth/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/i-like-smooth/</feedburner:origLink></item>
-		<item>
-		<title>Wal-Mart Should Buy Barnes &amp; Noble’s Struggling Nook Division</title>
-		<link>http://feedproxy.google.com/~r/ThePassiveVoice/~3/y6oEbf8ycvY/</link>
-		<comments>http://www.thepassivevoice.com/12/2014/wal-mart-should-buy-barnes-nobles-struggling-nook-division/#comments</comments>
-		<pubDate>Fri, 05 Dec 2014 17:12:12 +0000</pubDate>
-		<dc:creator><![CDATA[Passive Guy]]></dc:creator>
-				<category><![CDATA[Ebook/Ereader Growth]]></category>
-		<category><![CDATA[Nook]]></category>
-
-		<guid isPermaLink="false">http://www.thepassivevoice.com/?p=58523</guid>
-		<description><![CDATA[From The Street: Since his promotion to CEO of Barnes &#38; Noble  in January 2014, Michael Huseby has been preparing the struggling Nook digital media division for sale, but so far no suitors have shown themselves. Huseby should look no further than the world&#8217;s largest retailer, Wal-Mart Stores . Wal-Mart has been steadily investing in [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>From The Street:</p>
-<blockquote><p>Since his promotion to CEO of Barnes &amp; Noble  in January 2014, Michael Huseby has been preparing the struggling Nook digital media division for sale, but so far no suitors have shown themselves. Huseby should look no further than the world&#8217;s largest retailer, Wal-Mart Stores .</p>
-<p>Wal-Mart has been steadily investing in and growing its digital businesses and needs to find more ways to compete with Amazon. While Nook has been failing since 2012, it still has underlying assets &#8212; a catalog of millions of e-books, thousands of relationships with publishers and suppliers, and a robust self-publishing services business &#8212; that would be valuable for a company interested in investing in e-books and would be hard to build from scratch.</p>
-<p>. . . .</p>
-<p>&#8220;It is definitely a good idea if Wal-Mart cares about being in the book business or the digital media business long term,&#8221; said book publishing consultant Mike Shatzkin. &#8220;If that&#8217;s a priority for them, acquiring Nook would probably be the cheapest way to ensconce themselves in the game.&#8221;</p>
-<p>With Nook, Barnes &amp; Noble was once solidly the No. 2 e-book retailer in the U.S., behind Amazon, with a reported 25% market share to Amazon&#8217;s 65%. That was in 2012, when Nook revenues eclipsed $900 million and then-CEO William Lynch charted a course to reach $1 billion in annual revenue.</p>
-<p>The plan involved Nook continuing to sell more Nook devices in the growing tablet business, as well as selling more e-books on those devices and increasing digital content sales across the board.</p>
-<p>Neither of those things happened.</p>
-<p>. . . .</p>
-<p>What&#8217;s next for Nook?</p>
-<p>Barnes &amp; Noble has said that spinning off Nook as a separate public company is also an option to exit the business. With a consistent track record of losses and declining revenues, it&#8217;s not a very good one.</p>
-<p>Instead, Barnes &amp; Noble should sell Nook to Wal-Mart.</p>
-<p>According to one source who did not want to be named, the big retailer is exploring entering the e-book business. Buying Nook would be an easy and inexpensive way for the company to do so. Wal-Mart declined to comment.</p>
-<p>Like many Amazon competitors, Wal-Mart has been trying to expand in digital. It expects its e-commerce sales in 2015 to increase to $12.5 billion after accelerating its digital investments to between $1.2 and $1.5 billion, up from $1 billion in 2014.</p>
-<p>While $12.5 billion is nothing to sneeze at, it&#8217;s a fraction of Amazon&#8217;s projected 2015 revenue, which will eclipse $100 billion. And it&#8217;s less than 3% of Wal-Mart&#8217;s $473 billion in sales in 2014, which are expected to grow 2% to 4% in 2015.</p>
-<p>A Wal-Mart spokesperson said that funds for digital acquisitions would not come from its capital expenditures on digital expansion and pointed out that the company has made 14 e-commerce acquisitions in the past several years.</p>
-<p>&#8220;We are open to acquisitions if they fit into our enterprise strategy,&#8221; the spokesperson said, via email.</p>
-<p>Nook &#8220;is a nice fit with Wal-Mart&#8217;s print book business,&#8221; said James McQuivey, a vice president and principal analyst at Forrester focused on the book publishing industry. &#8220;They could probably also get it for a decent price.&#8221;</p>
-<p>To be sure, there are significant risks. In the U.K., retailers Tesco and Sainsbury both launched e-book businesses, but Amazon still has about 90% of the market.</p></blockquote>
-<p>Link to the rest at <a href="http://www.thestreet.com/story/12975043/2/walmart-should-buy-barnes-nobles-struggling-nook-division.html"  target="_blank" rel="nofollow">The Street</a></p>
-<p>PG says if Big Publishing thinks Amazon is tough when negotiating contracts with suppliers, they&#8217;ll gain some perspective on that subject should Wal-Mart enter the ebook business.</p>
-<div class="feedflare">
-<a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=y6oEbf8ycvY:5ECpuwZRcsI:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=yIl2AUoC8zA" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=y6oEbf8ycvY:5ECpuwZRcsI:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=y6oEbf8ycvY:5ECpuwZRcsI:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=y6oEbf8ycvY:5ECpuwZRcsI:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/ThePassiveVoice?a=y6oEbf8ycvY:5ECpuwZRcsI:gIN9vFwOqvQ"><img src="http://feeds.feedburner.com/~ff/ThePassiveVoice?i=y6oEbf8ycvY:5ECpuwZRcsI:gIN9vFwOqvQ" border="0"></img></a>
-</div><img src="//feeds.feedburner.com/~r/ThePassiveVoice/~4/y6oEbf8ycvY" height="1" width="1" alt=""/>]]></content:encoded>
-			<wfw:commentRss>http://www.thepassivevoice.com/12/2014/wal-mart-should-buy-barnes-nobles-struggling-nook-division/feed/</wfw:commentRss>
-		<slash:comments>51</slash:comments>
-		<feedburner:origLink>http://www.thepassivevoice.com/12/2014/wal-mart-should-buy-barnes-nobles-struggling-nook-division/</feedburner:origLink></item>
 	</channel>
 </rss>
