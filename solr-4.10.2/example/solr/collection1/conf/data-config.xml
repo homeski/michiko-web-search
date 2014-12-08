@@ -1,0 +1,27 @@
+<dataConfig>
+    <dataSource type="URLDataSource"/>
+    <document>
+        <entity name="page"
+                pk="id"               
+                url="http://feeds.feedburner.com/ThePassiveVoice?format=xml"
+                processor="XPathEntityProcessor"
+                forEach="/rss/channel/item">
+				
+            <field column="feed" xpath="/rss/channel/title" commonField="true" />
+            <field column="host" xpath="/rss/channel/link" commonField="true" />
+            <!-- <field column="subject" xpath="/rss/channel/subject" commonField="true" /> -->
+			
+            <field column="id" xpath="/rss/channel/item/link" />
+            <field column="title" xpath="/rss/channel/item/title" />
+            <!-- <field column="url" xpath="/rss/channel/item/link" /> -->
+            <!-- <field column="description" xpath="/rss/channel/item/description" /> -->
+            <field column="author" xpath="/rss/channel/item/creator" />
+            <!-- <field column="item-subject" xpath="/rss/channel/item/subject" /> -->
+            <!-- <field column="date" xpath="/rss/channel/item/date" dateTimeFormat="yyyy-MM-dd'T'HH:mm:ss" /> -->
+            <!-- <field column="slash-department" xpath="/rss/channel/item/department" />
+            <field column="slash-section" xpath="/rss/channel/item/section" />
+            <field column="slash-comments" xpath="/rss/channel/item/comments" /> -->
+            <field column="content" xpath="/rss/channel/item/encoded"/>
+        </entity>
+    </document>
+</dataConfig>

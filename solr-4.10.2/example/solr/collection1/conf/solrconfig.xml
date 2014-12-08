@@ -72,6 +72,8 @@
        The examples below can be used to load some solr-contribs along 
        with their external dependencies.
     -->
+  <lib dir="../../../dist/" regex="solr-dataimporthandler-.*\.jar" />
+
   <lib dir="../../../contrib/extraction/lib" regex=".*\.jar" />
   <lib dir="../../../dist/" regex="solr-cell-\d.*\.jar" />
 
@@ -1257,6 +1259,13 @@
          <str name="pollInterval">00:00:60</str>
        </lst>
     -->
+  </requestHandler>
+
+  <!-- Added to import XM files -->
+  <requestHandler name="/dataimport" class="org.apache.solr.handler.dataimport.DataImportHandler">
+    <lst name="defaults">
+      <str name="config">data-config.xml</str>
+    </lst>
   </requestHandler>
 
   <!-- Search Components

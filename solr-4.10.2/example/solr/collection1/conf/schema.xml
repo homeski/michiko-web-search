@@ -53,6 +53,13 @@
 <!--                <filter class="solr.EnglishPorterFilterFactory"
                     protected="protwords.txt"/> -->
                 <filter class="solr.RemoveDuplicatesTokenFilterFactory"/>
+            </analyzer>            
+        </fieldType>
+        <fieldType name="html" class="solr.TextField"
+            positionIncrementGap="100">
+            <analyzer>
+                <charFilter class="solr.HTMLStripCharFilterFactory"/>
+                <tokenizer class="solr.StandardTokenizerFactory"/>
             </analyzer>
         </fieldType>
         <fieldType name="url" class="solr.TextField"
@@ -78,7 +85,7 @@
         <!-- fields for index-basic plugin -->
         <field name="host" type="string" stored="false" indexed="true"/>
         <field name="url" type="url" stored="true" indexed="true"/>
-        <field name="content" type="text" stored="true" indexed="true"/>
+        <field name="content" type="html" stored="true" indexed="true"/>
         <field name="title" type="text" stored="true" indexed="true"/>
         <field name="cache" type="string" stored="true" indexed="false"/>
         <field name="tstamp" type="date" stored="true" indexed="false"/>
