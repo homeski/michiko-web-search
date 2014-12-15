@@ -55,7 +55,11 @@
         </fieldType>
         <fieldType name="html" class="solr.TextField"
             positionIncrementGap="100">
-            <analyzer>
+            <analyzer type="index">
+                <charFilter class="solr.HTMLStripCharFilterFactory"/>
+                <tokenizer class="solr.StandardTokenizerFactory"/>
+            </analyzer>
+            <analyzer type="query">
                 <charFilter class="solr.HTMLStripCharFilterFactory"/>
                 <tokenizer class="solr.StandardTokenizerFactory"/>
             </analyzer>
@@ -109,7 +113,7 @@
             indexed="true" multiValued="true"/>
 
         <!-- fields for feed plugin (tag is also used by microformats-reltag)-->
-        <field name="author" type="string" stored="true" indexed="true"/>
+        <field name="author" type="text" stored="true" indexed="true"/>
         <field name="tag" type="string" stored="true" indexed="true" multiValued="true"/>
         <field name="feed" type="string" stored="true" indexed="true"/>
         <field name="publishedDate" type="date" stored="true"
