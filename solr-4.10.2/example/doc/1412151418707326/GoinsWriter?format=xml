@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Goins, Writer</title>
+	
+	<link>http://goinswriter.com</link>
+	<description>A blog about writing, creative ideas, and making a difference in the world.</description>
+	<lastBuildDate>Mon, 15 Dec 2014 22:17:53 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0.1</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.9" mode="advanced" -->
+	<itunes:summary>Jeff Goins shares thoughts &amp; ideas that will help you to pursue work that matters, make a difference with your art &amp; discover your true voice!</itunes:summary>
+	<itunes:author>Jeff Goins</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://goinswriter.com/wp-content/uploads/powerpress/Portfolio-Life-cover-art-1400x1400.jpg" />
+	<itunes:owner>
+		<itunes:name>Jeff Goins</itunes:name>
+		<itunes:email>jeff@goinswriter.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>jeff@goinswriter.com (Jeff Goins)</managingEditor>
+	<copyright>© GoinsWriter.com</copyright>
+	<itunes:subtitle>On Writing, Ideas, and Making a Difference</itunes:subtitle>
+	<itunes:keywords>Jeff Goins,Writer,Work,Career,Art,True Voice</itunes:keywords>
+	<image><link>http://goinswriter.com/</link><url>http://goinswriter.com/wp-content/uploads/2011/03/GoinsWriterheader-01.png</url><title>Goinswriter Chicklet</title></image>
+	<itunes:category text="Business">
+		<itunes:category text="Management &amp; Marketing" />
+	</itunes:category>
+	<itunes:category text="Arts">
+		<itunes:category text="Literature" />
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Careers" />
+	</itunes:category>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/GoinsWriter" /><feedburner:info uri="goinswriter" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/</creativeCommons:license><xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/GoinsWriter" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><feedburner:browserFriendly>Thanks for subscribing to my blog: Goins, Writer. I hope you enjoy what you read.</feedburner:browserFriendly><item>
+		<title>035: What About Me? Avoiding the Comparison Trap [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/xv9iX_my40Q/</link>
+		<comments>http://goinswriter.com/comparison-trap/#comments</comments>
+		<pubDate>Fri, 12 Dec 2014 10:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Creativity]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15679</guid>
+		<description><![CDATA[Let's be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are envious. This envy often leads to guilt and shame. But is it always such a bad thing?<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15679">035: What About Me? Avoiding the Comparison Trap [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are <em>envious</em>. This envy often leads to guilt and shame. But is it always such a bad thing?</p>
+<p><img class="aligncenter" src="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-035_1-630x349.png" alt="" /></p>
+<p>It’s easy to see someone else’s success and compare yourself to what you <em>think</em> you see. Their finished product looks great, they <em>must</em> have it together. &#8220;Why don’t I feel <em>that</em> confident or competent?&#8221;<em> </em>you wonder.<em> </em></p>
+<p>Or maybe you see someone doing the same thing you&#8217;re doing but experiencing far greater success. Why <em>is</em> that? What makes their work better than yours? On the surface, this kind of comparison feels detrimental. But perhaps, there&#8217;s a way redeem this &#8220;trap&#8221; and use it for good.</p>
+<p>Here&#8217;s the truth:</p>
+<p><strong>Envy isn’t always bad. Complacency is. Envy is an indication of something you want, but don’t yet have.</strong> [<a title="tweet" href="http://ctt.ec/tk3Yv" target="_blank">Tweet that</a>]</p>
+<p>The hidden benefit of comparison is that you can use it to push forward. In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, my co-host Andy Traub and I talk about how we both have struggled with comparison, what we’ve done about it, and how you can turn your comparison into motivation.</p>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below. (If you’re reading this via email, <a href="http://goinswriter.com/comparison-trap/" target="_blank">click here</a>).</p>
+
+<p>You can also listen at <a href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<p>Join us as we explore this tension between envy and motivation and why the two can go hand in hand. Admiring someone else&#8217;s success gives you something to strive for. In other words, envy, with the right motivation, can help you succeed.</p>
+<p>Many of us feel like we&#8217;re competing with our friends or peers. But wanting to be better than everyone else is an empty pursuit. The real question is do we want to be better than we were yesterday?</p>
+<h3>Show highlights</h3>
+<p>In this episode we discuss:</p>
+<ul>
+<li>Some questions you can ask yourself when you’re feeling jealous (so you don&#8217;t get stuck in that &#8220;What about me?&#8221; trap)</li>
+<li>The difference between a fixed mindset and a growth mindset and why understanding this will change everything for you</li>
+<li>How to use your envy to become a more <a title="How I Get Things Done" href="http://goinswriter.com/get-things-done/" target="_blank">productive</a> pereson</li>
+<li>Practical tips for intentional self-improvement, even when you&#8217;re feeling jealousy or unworthy</li>
+</ul>
+<blockquote><p><em>Your job as a creative is to be a little bit better today than you were yesterday.</em> (<a title="tweet" href="http://ctt.ec/gFY72" target="_blank">Tweet that</a>)</p></blockquote>
+<h3>Resources mentioned in the show</h3>
+<ul>
+<li><a title="99U article" href="http://99u.com/articles/33341/comparison-trap-envy-jealous-success-coworkers-friends" target="_blank">The Comparison Trap: How to Enjoy (and not Envy) the Success of Others Online</a> at 99U</li>
+<li><em><a title="Psychology of Success" href="http://amzn.to/1shTCWt" target="_blank">Mindset: The New Psychology of Success</a></em> by Carol Dweck (affiliate link)</li>
+<li><em><a title="The Innovators" href="http://amzn.to/1snbhX4" target="_blank">The Innovators</a></em> by Walter Isaacson (affiliate link)</li>
+<li><em><a title="Flow" href="http://www.amazon.com/gp/product/0061339202/ref=as_li_tl?ie=UTF8&#038;camp=1789&#038;creative=390957&#038;creativeASIN=0061339202&#038;linkCode=as2&#038;tag=goiwri-20&#038;linkId=JWRXM3NUVSJMIQQY" target="_blank">Flow: The Psychology of Optimal Experience</a></em> by Mihaly Csikszentmihaly (affiliate link)</li>
+</ul>
+<p>You can also sign up for an <a title="Audible" href="http://goinswriter.com/audible/" target="_blank">Audible</a> membership (my preferred way to listen to audiobooks and how I am able to read several books each month) and <a title="Audible" href="http://goinswriter.com/audible" target="_blank">get your first book for free</a> (also an affiliate link).</p>
+<p>I hope you enjoyed this week&#8217;s episode. If you know someone who would benefit from it, feel free to download and share it. Since iTunes only cares about comparison, we&#8217;d appreciate it if you would <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a>.</p>
+<div class="special"><strong>Note:</strong> My online course, <a title="Tribe Writers" href="http://tribewriters.com" target="_blank">Tribe Writers</a>, opened for registration this week, along with a new bonus &#8212; my brand new course on blogging! This will be the last time this course is available until June 2015. <a title="Tribe Writers" href="http://tribewriters.com" target="_blank">Find out more by clicking here</a>. </div>
+<p><b>How do you deal with the comparison trap?</b> Share in the <a href="http://goinswriter.com/comparison-trap/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15679">035: What About Me? Avoiding the Comparison Trap [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/xv9iX_my40Q" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/comparison-trap/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_035_-_Comparison__What_About_Me.mp3" length="79710068" type="audio/mpeg" />
+		<itunes:subtitle>Let's be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are envious. This envy often leads to guilt and shame. But is it always such a bad thing?</itunes:subtitle>
+		<itunes:summary>Let's be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are envious. This envy often leads to guilt and shame. But is it always such a bad thing?
+
+(http://goinswriter.com/wp-content/uploads/PL_Header_Ep-035_1-630x349.png)
+
+It’s easy to see someone else’s success and compare yourself to what you think you see. Their finished product looks great, they must have it together. "Why don’t I feel that confident or competent?" you wonder. 
+
+Or maybe you see someone doing the same thing you're doing but experiencing far greater success. Why is that? What makes their work better than yours? On the surface, this kind of comparison feels detrimental. But perhaps, there's a way redeem this "trap" and use it for good.
+
+Here's the truth:
+
+Envy isn’t always bad. Complacency is. Envy is an indication of something you want, but don’t yet have. [Tweet that (http://ctt.ec/tk3Yv)]
+
+The hidden benefit of comparison is that you can use it to push forward. In this episode of The Portfolio Life (http://goinswriter.com/itunes), my co-host Andy Traub and I talk about how we both have struggled with comparison, what we’ve done about it, and how you can turn your comparison into motivation.
+Listen to the podcast
+To listen to the show, click the player below. (If you’re reading this via email, click here (http://goinswriter.com/comparison-trap/)).
+
+
+
+You can also listen at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+
+Join us as we explore this tension between envy and motivation and why the two can go hand in hand. Admiring someone else's success gives you something to strive for. In other words, envy, with the right motivation, can help you succeed.
+
+Many of us feel like we're competing with our friends or peers. But wanting to be better than everyone else is an empty pursuit. The real question is do we want to be better than we were yesterday?
+Show highlights
+In this episode we discuss:
+
+	* Some questions you can ask yourself when you’re feeling jealous (so you don't get stuck in that "What about me?" trap)
+	* The difference between a fixed mindset and a growth mindset and why understanding this will change everything for you
+	* How to use your envy to become a more productive (http://goinswriter.com/get-things-done/) pereson
+	* Practical tips for intentional self-improvement, even when you're feeling jealousy or unworthy
+
+Your job as a creative is to be a little bit better today than you were yesterday. (Tweet that (http://ctt.ec/gFY72))
+Resources mentioned in the show
+
+	* The Comparison Trap: How to Enjoy (and not Envy) the Success of Others Online (http://99u.com/articles/33341/comparison-trap-envy-jealous-success-coworkers-friends) at 99U
+	* Mindset: The New Psychology of Success (http://amzn.to/1shTCWt) by Carol Dweck (affiliate link)
+	* The Innovators (http://amzn.to/1snbhX4) by Walter Isaacson (affiliate link)
+* Flow: The Psychology of Optimal Experience (http://www.amazon.com/gp/product/0061339202/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0061339202&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=JWRXM3NUVSJMIQQY) by Mihaly Csikszentmihaly (affiliate link)
+
+You can also sign up for an Audible (http://goinswriter.com/audible/) membership (my preferred way to listen to audiobooks and how I am able to read several books each month) and get your first book for free (http://goinswriter.com/audible) (also an affiliate link).
+
+I hope you enjoyed this week's episode. If you know someone who would benefit from it, feel free to download and share it. Since iTunes only cares about comparison, we'd appreciate it if you would leave a review on iTunes (http://goinswriter.com/itunes).
+
+
+
+How do you deal with the comparison trap? Share in the comments (http://goinswriter.com/comparison-trap/#disqus_thread).</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>32:56</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/comparison-trap/</feedburner:origLink></item>
+		<item>
+		<title>Here’s a Simple Way to Get People to Care About What You Create</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/7QLy8aoRHc8/</link>
+		<comments>http://goinswriter.com/heres-a-simple-way-to-get-people-to-care-about-what-you-create/#comments</comments>
+		<pubDate>Wed, 10 Dec 2014 15:24:26 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15704</guid>
+		<description><![CDATA[There's a question every person is asking when they pick up your book, glance at your website, or consider buying your product. And it’s something we creators don’t often think about.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15704">Here's a Simple Way to Get People to Care About What You Create</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a question every person is asking when they pick up your book, glance at your website, or consider buying your product. And it’s something we creators don’t often think about.</p>
+<div id="attachment_15708" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-15708" src="http://goinswriter.com/wp-content/uploads/15078893576_65ce047fe7_b-630x420.jpg" alt="Photo Credit: Ian Sane via Compfight cc" width="630" height="420" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/31246066@N04/15078893576/">Ian Sane</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></p></div>
+<p><strong>“What’s in it for me?”</strong></p>
+<p>This is what every audience member and every prospective customer is thinking, whether it’s consciously or not. And the best thing you can do to make a difference with your art, to share a message that connects with people, is to answer that question before they ask it.</p>
+<p>In other words, make your work so valuable that it’s a no-brainer. Some examples might include:</p>
+<ul>
+<li>Offering an eBook that you could charge for and instead give it away to anyone who signs up for your email newsletter.</li>
+<li>Spend an entire year (as I did) being as generous as you possibly can be to whatever readers you have, without asking for a thing.</li>
+<li>Offer the first 15 minutes of a coaching or counseling session for free so that potential clients can see the clear value you offer.</li>
+</ul>
+<p><strong>Instead of making it about you, make it about them.</strong></p>
+<p>A funny thing tends to happen when we take this generous approach with our creations: When you make it about them, they’ll make it about you.</p>
+<p>You know this already, of course. You just need to apply it. You’ve heard that people won’t care about you until you’ve shown them how much you care. The same is true here. We have to discipline ourselves to not be selfish, to open up our hands and not be stingy with the world.</p>
+<p>I think you just might be surprised at the response you get.</p>
+<div class="special">To see exactly what I mean, watch this video (and don’t miss the other two in this free series I’m doing): <a href="https://my.leadpages.net/leadbox/140c6c573f72a2%3A1245e56aeb46dc/5709588863123456/" target="_blank">Check it out.</a><script src="//my.leadpages.net/leadbox-810.js" type="text/javascript" data-leadbox="140c6c573f72a2:1245e56aeb46dc" data-url="https://my.leadpages.net/leadbox/140c6c573f72a2%3A1245e56aeb46dc/5709588863123456/" data-config="%7B%7D"></script></div>
+<p><strong>What could you share with your audience?</strong> Tell me in the comments.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15704">Here's a Simple Way to Get People to Care About What You Create</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/7QLy8aoRHc8" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/heres-a-simple-way-to-get-people-to-care-about-what-you-create/feed/</wfw:commentRss>
+		<slash:comments>35</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/heres-a-simple-way-to-get-people-to-care-about-what-you-create/</feedburner:origLink></item>
+		<item>
+		<title>How to Never Worry About What to Write Again</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/62KjwQel9YI/</link>
+		<comments>http://goinswriter.com/write-about/#comments</comments>
+		<pubDate>Mon, 08 Dec 2014 18:20:23 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15672</guid>
+		<description><![CDATA[In my near-decade of coaching writers, there has been one question I've been asked over and over again. In fact, this is something I often ask myself: What should I write about? 
+
+The problem is that’s the wrong question.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15672">How to Never Worry About What to Write Again</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>In my near-decade of coaching writers, there has been one question I&#8217;ve been asked over and over again. In fact, this is something I often ask myself: <em>What should I write about?</em> The problem is that’s the wrong question.</p>
+<div id="attachment_15695" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-15695" src="http://goinswriter.com/wp-content/uploads/worry-write-about-630x422.jpg" alt="Worried face pic" width="630" height="422" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/9031691@N08/2758739495/">Lisa Brewster</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-sa/2.0/">cc</a></p></div>
+<p>When you get stuck thinking about what you should write about, your focus is on the wrong place. You begin to fixate on things like subject and genre, even niche. And all these are not essential to developing your calling as a writer.</p>
+<p><strong>The words you say are the paint on the house. The foundation is the belief behind them. Which is something most writers miss.</strong></p>
+<p>Where we must begin, if we want people to take us seriously, is not with what we say, but <em>how</em> we say it. As I’ve said before, people care more about the why than the what. In other words:</p>
+<p>Voice trumps subject.</p>
+<p>Of course, that’s not to say that you shouldn’t have a subject for your blog or book. You should. It just means that’s not enough. Good writers, the ones we remember after they’re gone, are the ones who have <a href="http://goinswriter.com/writing-topics/">developed a worldview</a> and articulate it in a definitive voice.</p>
+<p>And you should do the same.</p>
+<h3>Getting practical</h3>
+<p>So how do we do this? You can tackle this by asking yourself three important questions:</p>
+<ol>
+<li><strong>What’s wrong with the world?</strong> Your answer to this in some way reveals your worldview, your particular perspective that makes you special. List out some possible ideas for this as clues to what makes your <a href="http://goinswriter.com/writing-voice/">voice</a> so unique.</li>
+<li><strong>What’s one experience I have had that’s unique to me?</strong> Everyone has a story, and the easiest way to find your voice is to start telling yours. People connect to other people’s experiences, especially when it’s painful or embarrassing. When you share yours, you’re inviting others into a place where they can feel heard. Write one true, vulnerable story, and see how people connect.</li>
+<li><strong>What’s something that’s easy to me that’s hard to other people?</strong> You are more of an expert than you realize. Right now, someone is looking to you for your expertise on something. A great way to figure that out is to reach out to a handful of friends and ask them what you’re an expert at. See what they say, and don&#8217;t discount how easy it is to you. This, too, is a clue to what you should be writing.</li>
+</ol>
+<p>This is the secret to how you never run out of an idea on what to write. And this, after years of frustration, is what I finally decided to do. Don’t chase trends. Write with a worldview. And trust that the topics will follow. It works. (Click the image below to learn more.)</p>
+<div id="attachment_15674" style="width: 640px" class="wp-caption aligncenter"><a href="https://my.leadpages.net/leadbox/141a29673f72a2%3A1245e56aeb46dc/5731283548241920/" target="_blank"><img class="size-large wp-image-15674" src="http://goinswriter.com/wp-content/uploads/write-about-630x351.png" alt="What Should I Write About" width="630" height="351" /></a><p class="wp-caption-text">Download my <a href="https://my.leadpages.net/leadbox/141a29673f72a2%3A1245e56aeb46dc/5731283548241920/" target="_blank">free video on what you should write about</a>.</p></div>
+<div class="special"><strong>Bonus:</strong> Check out my free video that tells you how to decide what you should write about. It’s part of a three-part series I’m offering this week. <a href="https://my.leadpages.net/leadbox/141a29673f72a2%3A1245e56aeb46dc/5731283548241920/">Check it out</a>.</div>
+<p><strong>What do you write about?</strong> Share in the comments.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15672">How to Never Worry About What to Write Again</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/62KjwQel9YI" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/write-about/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/write-about/</feedburner:origLink></item>
+		<item>
+		<title>The First Question You Must Ask Yourself Before Becoming a Professional Writer</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/R1ZHAnOTJCM/</link>
+		<comments>http://goinswriter.com/become-writer/#comments</comments>
+		<pubDate>Fri, 05 Dec 2014 10:03:52 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15652</guid>
+		<description><![CDATA[I waited seven years to do this. I read dozens of books and wasted hours upon hours every week meeting with people, trying to learn this simple secret. It was the answer to the question my heart was asking. Maybe you’re asking it, too.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15652">The First Question You Must Ask Yourself Before Becoming a Professional Writer</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<div class="special"><strong>Spoiler alert:</strong> This post is about how I became a professional writer. At the end I link to a video that shares more about the process. If you want to just skip to that, just <a href="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" target="_blank">click here</a><script src="//my.leadpages.net/leadbox-808.js" type="text/javascript" data-leadbox="14205d473f72a2:1245e56aeb46dc" data-url="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" data-config="%7B%7D"></script>.</div>
+<blockquote><p>
+<em>For as he thinks in his heart, so is he.<br />
+ </em><strong>&#8211;Proverb 23:7</strong>
+</p></blockquote>
+<p>I waited seven years to do this. I read dozens of books and wasted hours upon hours every week meeting with people, trying to learn this simple secret. It was the answer to the question my heart was asking. Maybe you’re asking it, too.</p>
+<div id="attachment_15653" style="width: 640px" class="wp-caption aligncenter"><a href="Professional Writer"><img class="size-large wp-image-15653" src="http://goinswriter.com/wp-content/uploads/become-writer-630x351.png" alt="Professional Writer" width="630" height="351" /></a><p class="wp-caption-text"><a href="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" target="_blank">Click here</a><script src="//my.leadpages.net/leadbox-808.js" type="text/javascript" data-leadbox="14205d473f72a2:1245e56aeb46dc" data-url="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" data-config="%7B%7D"></script>to watch my free video series.</p></div>
+<p><em>Do I have what it takes?</em></p>
+<p>Every writer struggles with this. In fact, every person grapples with it on some level. It’s not just a creative struggle, but a human one. We all are wondering if what we are made of is enough. Can we really survive this trauma, this struggle, this current trial – whatever it may be?</p>
+<p>The answer, though, is not something you can find out there, in the world. It’s something you must grapple with from within. It’s a question only you can answer. And for the longest time, I misunderstood this.</p>
+<h3>My awakening</h3>
+<p>When I was starting out a few years ago as a blogger, I had a few conversations that changed my life. Even though this question your heart is asking is one you know the answer to, you will find guides along the way. These were mine.</p>
+<p><strong>CONVERSATION #1:</strong> In an interview, Steven Pressfield told me that a writer becomes a writer “when he says he is.” It doesn’t matter what other people think. It matters what <em>you</em> think, what you believe about yourself.</p>
+<p><strong>CONVERSATION #2:</strong> A few months later, I was having a conversation with my friend Paul and he asked me what my dream was. I told him I didn’t have any, and he looked surprised.</p>
+<p>“Really? Because I would’ve thought your dream was to be a writer.”</p>
+<p>“Well,” I said. “Yeah, I guess I’d like to be a writer… some day.”</p>
+<p>“Jeff,” he said. “You don’t have to want to be a writer. You are a writer. You just need to write.”</p>
+<p>That was all it took for me to get started. And what happened next was nothing short of extraordinary:</p>
+<ul>
+<li>I <strong>launched a blog</strong> which had over 50,000 monthly readers by the end of the first year.</li>
+<li>The next year, I <strong>replaced my wife’s income</strong>, and a few months later replaced my own.</li>
+<li>A few months after that, I <strong>quit my job</strong> and became a <a href="http://goinswriter.com/turn-pro/">professional writer</a> and never looked back.</li>
+</ul>
+<p>It sounds like it happened so fast, but really the process took about nine years – seven years of waiting and two years of finally doing the work. But all of this knowledge is worthless without understanding one simple principle.</p>
+<div class="content-box-yellow"><strong>BONUS DOWNLOAD:</strong> Watch my free video in a three-part series on what it takes to become a professional writer. <a title="Watch free video" href="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" target="_blank">Click here to get started</a>.</div>
+<h3>The Activity-Identity Principle</h3>
+<p>I don’t know why, but when I started calling myself a writer, everything changed.</p>
+<p>Maybe it was because now that I was owning my identity, I felt pressured to live into it. Or maybe we are all waiting to become who we really are. Regardless, I now believe in a very simple but powerful principle:</p>
+<p><strong>Activity always follows identity. </strong></p>
+<p>This, I think, is the reason behind most people’s struggles. And it’s the secret to breakthrough in your career, your goals, and your life. Before you can do something, you have to become someone.</p>
+<p>But where, exactly, do you begin?</p>
+<p>Start with your words, with the everyday things you say (or think) about yourself. In the words of Mr. Pressfield, “You are when you say you are.” And that, as simple, as it sounds, just might be the answer.</p>
+<h3>Here’s your challenge (and a free video series)</h3>
+<p>If you’ve read my blog for some time, you’re probably not unfamiliar with this story or even this idea of owning your identity. Because of the impact it’s had on my life, I’ve written about it many times.</p>
+<p>But just because you’ve heard this doesn’t mean you’ve applied it, right? Often, it’s the most familiar things that we take for granted the most.</p>
+<p>So if you’re reading this and feeling a little uncomfortable, maybe that’s a prompting. Maybe it’s time for you to take a significant step towards changing your life. Maybe it’s time to become yourself.</p>
+<p>Here’s what I want you to do. Try this out. If you were like me, wondering when you would have permission to start writing, why not do what I did, what my friend made me do?</p>
+<p><strong>Call yourself a writer.</strong> And watch your confidence grow. Slowly, you will begin to believe more in yourself, and your competence will increase. It&#8217;s a mysterious but beautiful process. As you declare these things to be true, you are becoming more that person.</p>
+<p>If you&#8217;re in, go watch the <a href="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" target="_blank">first video in my three-part series</a> on the questions every writer must ask. <a href="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" target="_blank">Click here to leave a comment, declaring you&#8217;re a writer</a><script src="//my.leadpages.net/leadbox-808.js" type="text/javascript" data-leadbox="14205d473f72a2:1245e56aeb46dc" data-url="https://my.leadpages.net/leadbox/14205d473f72a2%3A1245e56aeb46dc/5762957321437184/" data-config="%7B%7D"></script>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15652">The First Question You Must Ask Yourself Before Becoming a Professional Writer</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/R1ZHAnOTJCM" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/become-writer/feed/</wfw:commentRss>
+		<slash:comments>52</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/become-writer/</feedburner:origLink></item>
+		<item>
+		<title>034: Create Balance, Create Better Art: Interview with Mars Dorian [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/0w0kVT0NRhc/</link>
+		<comments>http://goinswriter.com/mars-dorian-balance/#comments</comments>
+		<pubDate>Wed, 03 Dec 2014 10:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Creativity]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15614</guid>
+		<description><![CDATA[We’re all trying to find the balance in life allowing time and space for relationship development, financial income, and artistic expression. But sometimes you have to ignore your work in order to become a better artist. 
+
+In this episode of The Portfolio Life, Mars shares how he's finally found balance for his creative process, in his daily routine, and as a support for building a self-sufficient career.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15614">034: Create Balance, Create Better Art: Interview with Mars Dorian [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>We’re all trying to find the balance in life allowing time and space for relationship development, financial income, and artistic expression. But sometimes you have to ignore your work in order to become a better artist.</p>
+<p><a href="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-034_1.png"><img class="aligncenter size-large wp-image-15627" src="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-034_1-630x349.png" alt="034: Create Balance, Create Better Art — Interview with Mars Dorian [Podcast]" width="630" height="349" /></a></p>
+<p>When he first built his successful freelance business, <a href="http://www.marsdorian.com/" target="_blank">Mars Dorian&#8217;s</a> daily routine was vampire-like. He began work every evening between 6 and 10, and didn&#8217;t get to bed until 3am. His health, social life, and work all suffered because of it.</p>
+<p>In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, Mars shares how he&#8217;s finally found balance for his creative process, in his daily routine, and as a support for building a self-sufficient career.</p>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below (if viewing this in email, <a href="http://goinswriter.com/mars-dorian-balance/" target="_blank">click here</a>).</p>
+
+<p>You can also download it at <a title="iTunes" href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a title="Stitcher" href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<p>Join us as Mars talks about how he switched back to daylight hours and a healthier life. It wasn&#8217;t easy.</p>
+<p>He had to develop a new schedule that allowed him to create with discipline without neglecting relationships or his own body. He attacked this common problem with a unique solution you’ll want to hear.</p>
+<blockquote><p><em>You need a critical mind to say, ‘This is a good art work but how can I create a better one?’ After everything that I finish whether it’s a book or an art book, I always ask myself, ‘What can I do better with the next one?’</em><br />
+–<b>Mars Dorian</b></p></blockquote>
+<h3>Show highlights</h3>
+<p>In this episode we discuss:</p>
+<ul>
+<li>How your unique style and the freedom to create makes your art work better</li>
+<li>Why books are products that add value, not merely ideas to be shared for free</li>
+<li>The importance of relationships and building your work schedule around them</li>
+<li>How mental and physical health impact your creative process</li>
+<li>The first two-part step to self-sufficiency</li>
+</ul>
+<h3>About my guest</h3>
+<p><a href="http://www.marsdorian.com/" target="_blank">Mars Dorian</a> is an illustrator and sci-fi storyteller who built his platform in English because he wanted to address the whole planet not just those within Germany’s borders. He’s an artist whose work is unlike anyone else’s. And if the internet was a woman, he’d marry her.</p>
+<p>I hope you enjoyed the interview. You’re welcome to download it and share it with your friends. Also, I’d love it if you take a moment <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a> (this helps more people find the podcast).</p>
+<div class="special">Don’t forget to enter the Ultimate Blog Package giveaway and share it with your tribe. Every time you refer a friend, you get three extra chances to win. <a href="http://goinswriter.com/giveaways/ultimate-blog-package-giveaway/" target="_blank">Here’s the link</a>.</div>
+<p><b>How do you balance the tension between health, relationships, and work?</b> Share in the <a title="Comments" href="http://goinswriter.com/mars-dorian-balance/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15614">034: Create Balance, Create Better Art: Interview with Mars Dorian [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/0w0kVT0NRhc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/mars-dorian-balance/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_034_-_Mars_Dorian_Interview.mp3" length="84175256" type="audio/mpeg" />
+		<itunes:subtitle>We’re all trying to find the balance in life allowing time and space for relationship development, financial income, and artistic expression. But sometimes you have to ignore your work in order to become a better artist.  - </itunes:subtitle>
+		<itunes:summary>We’re all trying to find the balance in life allowing time and space for relationship development, financial income, and artistic expression. But sometimes you have to ignore your work in order to become a better artist.
+
+(http://goinswriter.com/wp-content/uploads/PL_Header_Ep-034_1-630x349.png)
+
+When he first built his successful freelance business, Mars Dorian's (http://www.marsdorian.com/) daily routine was vampire-like. He began work every evening between 6 and 10, and didn't get to bed until 3am. His health, social life, and work all suffered because of it.
+
+In this episode of The Portfolio Life (http://goinswriter.com/itunes), Mars shares how he's finally found balance for his creative process, in his daily routine, and as a support for building a self-sufficient career.
+Listen to the podcast
+To listen to the show, click the player below (if viewing this in email, click here (http://goinswriter.com/mars-dorian-balance/)).
+
+
+
+You can also download it at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+
+Join us as Mars talks about how he switched back to daylight hours and a healthier life. It wasn't easy.
+
+He had to develop a new schedule that allowed him to create with discipline without neglecting relationships or his own body. He attacked this common problem with a unique solution you’ll want to hear.
+You need a critical mind to say, ‘This is a good art work but how can I create a better one?’ After everything that I finish whether it’s a book or an art book, I always ask myself, ‘What can I do better with the next one?’
+–Mars Dorian
+Show highlights
+In this episode we discuss:
+
+	* How your unique style and the freedom to create makes your art work better
+	* Why books are products that add value, not merely ideas to be shared for free
+	* The importance of relationships and building your work schedule around them
+	* How mental and physical health impact your creative process
+	* The first two-part step to self-sufficiency
+
+About my guest
+Mars Dorian (http://www.marsdorian.com/) is an illustrator and sci-fi storyteller who built his platform in English because he wanted to address the whole planet not just those within Germany’s borders. He’s an artist whose work is unlike anyone else’s. And if the internet was a woman, he’d marry her.
+
+I hope you enjoyed the interview. You’re welcome to download it and share it with your friends. Also, I’d love it if you take a moment leave a review on iTunes (http://goinswriter.com/itunes) (this helps more people find the podcast).
+
+
+
+How do you balance the tension between health, relationships, and work? Share in the comments (http://goinswriter.com/mars-dorian-balance/#disqus_thread).</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>34:47</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/mars-dorian-balance/</feedburner:origLink></item>
+		<item>
+		<title>033: Is That It? How to Create Experiences, Not Just Exchanges [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/m_rS58fgm_g/</link>
+		<comments>http://goinswriter.com/wow-experiences/#comments</comments>
+		<pubDate>Fri, 28 Nov 2014 10:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Making a Difference]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15516</guid>
+		<description><![CDATA[How can we make a difference in someone's life? Really, it doesn't take much. Just a few small gestures can make a big difference.
+
+In this episode of the podcast, Andy Traub and I talk about creating wow experiences for people and what it really takes to exceed expectations.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15516">033: Is That It? How to Create Experiences, Not Just Exchanges [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>How can we make a difference in someone&#8217;s life? Really, it doesn&#8217;t take much. Just a few small gestures can make a big difference.</p>
+<p><a href="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-033_1.png"><img class="aligncenter size-large wp-image-15613" src="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-033_1-630x349.png" alt="033: Is That It? How to Create Experiences, Not Just Exchanges [Podcast]" width="630" height="349" /></a></p>
+<p>In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, my co-host <a href="http://www.takepermission.com/" target="_blank">Andy Traub</a> and I talk about creating wow experiences for people and what it really takes to exceed expectations.</p>
+<p>The idea of this show is this:<strong> </strong>Go beyond what is expected, do a little bit more than status quo, to make a difference in someone&#8217;s life.<strong> </strong>Being generous isn&#8217;t always about grand gestures. Doing small things on a consistent basis is all it takes to blow people away.</p>
+<p>As you listen to this week&#8217;s episode of the podcast, I hope you are encouraged to make a difference in someone&#8217;s life.</p>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below (if viewing this in email, <a href="http://goinswriter.com/wow-experiences/" target="_blank">click here</a>).</p>
+
+<p>You can also download it at <a title="iTunes" href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a title="Stitcher" href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<p>Listen in as we talk about the practical ways to create wow experiences for others. And don&#8217;t miss our usual ridiculous (but sometimes serious) predictions of the future.</p>
+<h3>Show highlights</h3>
+<p>In this episode we discuss:</p>
+<ul>
+<li>The right kind of wow and the wrong kind of wow (and how to tell the difference).</li>
+<li>How to give generously and make a lasting impact in other people&#8217;s lives.</li>
+<li>Some simple ways to make someone&#8217;s day (it&#8217;s not as hard as you might think).</li>
+<li>The sad product of living an ungenerous, self-centered life.</li>
+<li>How to redeem bad experiences through a life that is others-focused.</li>
+<li>Why generosity, ultimately, wins.</li>
+</ul>
+<h3>Resources mentioned in the show</h3>
+<ul>
+<li>Heath and Alyssa Padgett of <a href="http://www.hourlyamerica.com/" target="_blank">Hourly America</a> (check out their documentary in the making!)</li>
+<li><a href="http://www.amazon.com/gp/product/1400046831/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400046831&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=G52KBUK5HFLQVIVS" target="_blank"><em>Love is the Killer App</em></a> by Tim Sanders</li>
+<li><a href="http://www.amazon.com/gp/product/1414339119/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1414339119&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=ZAWARIR2PASNKAJA" target="_blank"><em>Today We Are Rich</em></a> by Tim Sanders</li>
+</ul>
+<p>I hope you enjoy this week&#8217;s episode. Feel free to download it and share with friends. And I&#8217;d love for you to take a moment to <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a> (this helps more people find the podcast).</p>
+<div class="special"><strong>Note:</strong> If you&#8217;ve been getting more than you expected from this blog, if I&#8217;ve been able to &#8220;wow&#8221; you in some small way, I&#8217;d love for you to vote for me for this <a title="Contest" href="http://writetodone.com/top-10-blogs-for-writers-contest/" target="_blank">Top 10 Writing Blogs Contest</a>. It only takes a few seconds!</p>
+<p>And to thank you all for being awesome, I&#8217;m giving away a chance to win The Ultimate Blog Package (worth over $1,000): my premium Tribe Theme, a full year of access to the Intentional Blog course, and a one-on-one blog coaching session with me. <a href="http://goinswriter.com/giveaways/ultimate-blog-package-giveaway/" target="_blank">Click here and enter to win</a>.</div>
+<p><strong>What small things can you do to make a big impact?</strong> Share in the <a title="Comments" href="http://goinswriter.com/wow-experiences/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15516">033: Is That It? How to Create Experiences, Not Just Exchanges [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/m_rS58fgm_g" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/wow-experiences/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_033_-_Is_That_It.mp3" length="64766252" type="audio/mpeg" />
+		<itunes:subtitle>How can we make a difference in someone's life? Really, it doesn't take much. Just a few small gestures can make a big difference. - In this episode of the podcast, Andy Traub and I talk about creating wow experiences for people and what it really tak...</itunes:subtitle>
+		<itunes:summary>How can we make a difference in someone's life? Really, it doesn't take much. Just a few small gestures can make a big difference.
+
+(http://goinswriter.com/wp-content/uploads/PL_Header_Ep-033_1-630x349.png)
+
+In this episode of The Portfolio Life (http://goinswriter.com/itunes), my co-host Andy Traub (http://www.takepermission.com/) and I talk about creating wow experiences for people and what it really takes to exceed expectations.
+
+The idea of this show is this: Go beyond what is expected, do a little bit more than status quo, to make a difference in someone's life. Being generous isn't always about grand gestures. Doing small things on a consistent basis is all it takes to blow people away.
+
+As you listen to this week's episode of the podcast, I hope you are encouraged to make a difference in someone's life.
+Listen to the podcast
+To listen to the show, click the player below (if viewing this in email, click here (http://goinswriter.com/wow-experiences/)).
+
+
+
+You can also download it at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+
+Listen in as we talk about the practical ways to create wow experiences for others. And don't miss our usual ridiculous (but sometimes serious) predictions of the future.
+Show highlights
+In this episode we discuss:
+
+	* The right kind of wow and the wrong kind of wow (and how to tell the difference).
+	* How to give generously and make a lasting impact in other people's lives.
+	* Some simple ways to make someone's day (it's not as hard as you might think).
+	* The sad product of living an ungenerous, self-centered life.
+	* How to redeem bad experiences through a life that is others-focused.
+	* Why generosity, ultimately, wins.
+
+Resources mentioned in the show
+
+	* Heath and Alyssa Padgett of Hourly America (http://www.hourlyamerica.com/) (check out their documentary in the making!)
+	* Love is the Killer App by Tim Sanders
+	* Today We Are Rich by Tim Sanders
+
+I hope you enjoy this week's episode. Feel free to download it and share with friends. And I'd love for you to take a moment to leave a review on iTunes (http://goinswriter.com/itunes) (this helps more people find the podcast).
+
+
+
+What small things can you do to make a big impact? Share in the comments (http://goinswriter.com/wow-experiences/#disqus_thread).</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>26:42</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/wow-experiences/</feedburner:origLink></item>
+		<item>
+		<title>The Best Blogging Advice I Ever Heard and Why It Ultimately Failed Me</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/6VFt-RX4VuQ/</link>
+		<comments>http://goinswriter.com/best-blogging-advice/#comments</comments>
+		<pubDate>Mon, 24 Nov 2014 10:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Blogging]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15494</guid>
+		<description><![CDATA[It was the one thing everyone seemed to say. The crucial piece of advice that I was hesitant to take. And as great as it was, it just wasn’t enough.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15494">The Best Blogging Advice I Ever Heard and Why It Ultimately Failed Me</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>It was the one thing everyone seemed to say. The crucial piece of advice that I was hesitant to take. And as great as it was, it just wasn’t enough.</p>
+<div id="attachment_15498" style="width: 640px" class="wp-caption alignnone"><img class="size-large wp-image-15498" src="http://goinswriter.com/wp-content/uploads/best-blog-advice-630x421.jpg" alt="Best blog advice" width="630" height="421" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/25533361@N00/280882501/">gatogrunge</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></p></div>
+<p>“Just get started.”</p>
+<p>This was what all my friends with successsful blogs had told me. It was the holy grail of advice. If I could just begin, they reasoned, then I would find my way.</p>
+<p>The problem was I had already done that eight times before. And it just didn’t work.</p>
+<h3>Why starting isn’t enough</h3>
+<p>There’s something to be said about starting. It’s the place where we all begin. And I’m definitely a fan of not waiting for perfection and just getting on with the work you know you need to do.</p>
+<p>But is that enough to succeed? Not quite.</p>
+<p>After seven years of trying and failing and then two years of finally figuring it out, I’ve realized that starting is just, well, the start.</p>
+<p>If you’re going to share your message with the world, if you’re going to build a blog that matters, you’re going to have to get intentional.</p>
+<h3>Three keys to blogging success</h3>
+<p>Recently, I released three free video trainings on what I’ve learned from building an online audience of 100,000 people. This was a process that took less than two years, and since then, I’ve taught over 2000 people to do the same.</p>
+<p>And now I’m sharing these secrets with you.</p>
+<p>Here’s what I’ve learned (click the links below to watch the videos which are all now available for a limited time):</p>
+<ol>
+<li><strong><a href="http://goinswriter.com/intentional-blog-video1">Find your voice</a>.</strong> This is the one thing that only you can provide, your unique perspective and way of viewing the world. Learning how to share it is an essential skill.</li>
+<li><strong><a href="http://goinswriter.com/intentional-blog-video2">Combine passion with need</a>.</strong> It’s not enough to have a dream. You need demand. People must want what you have to offer and actually value it. Otherwise, you only have a hobby.</li>
+<li><strong><a href="http://goinswriter.com/intentional-blog-video3">Help people</a>.</strong> Some say it’s not who you know but who knows you. But I think it goes deeper than that: it’s not who you know, it’s who you help. Being resourceful is the absolute best way to build an audience.</li>
+</ol>
+<h3>An opportunity to go deeper</h3>
+<p>If you’d like to learn more about this and have a chance to work directly with me, I want to encourage you to check out my new course, <a href="http://intentionalblog.com">Intentional Blog</a>.</p>
+<p>This is an A-to-Z course on all things you need to know to start and build a powerful blog. With over 30 step-by-step video tutorials, I share everything I’ve learned in the past decade of training bloggers to succeed and doing it myself.</p>
+<p>If you’ve ever thought about starting a blog or have struggled with building an online audience and wondered what the secret was, this <a href="http://intentionalblog.com" title="Intentional Blog" target="_blank">course</a> is for you.</p>
+<p>The course will only be available at a 50% discount for first-time students until <strong>11:59 p.m. CT on Wednesday, Nov. 26</strong>. After that, registration will close and the price will go up. I’m also offering exclusive group coaching calls with this first class. </p>
+<p>So you won&#8217;t want to miss it. I&#8217;d love to work with you. You can find out more by clicking below.</p>
+<center><a class="btn" href="http://intentionalblog.com">Check Out Intentional Blog</a></center>
+<p><strong>What’s the best piece of blogging advice you’ve ever heard?</strong> Share in the <a href="http://goinswriter.com/best-blogging-advice/#disqus_thread" title="Comments" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15494">The Best Blogging Advice I Ever Heard and Why It Ultimately Failed Me</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/6VFt-RX4VuQ" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/best-blogging-advice/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/best-blogging-advice/</feedburner:origLink></item>
+		<item>
+		<title>032: Facebook Isn’t the Problem — You Are: Interview with Joshua Becker [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/WECUJ5jGaV8/</link>
+		<comments>http://goinswriter.com/how-to-use-facebook/#comments</comments>
+		<pubDate>Fri, 21 Nov 2014 10:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15437</guid>
+		<description><![CDATA[Facebook is an opportunity to reach people and interact with others. But it's also a busy place with lots of people vying for your attention. Is it possible to stand out and be noticed in the Facebook crowd?<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15437">032: Facebook Isn't the Problem — You Are: Interview with Joshua Becker [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>Everyone seems to be complaining about Facebook these days. Too many ads. Too much clutter. Too little interaction with the people you want to reach. But what if Facebook wasn&#8217;t the problem? What if you were?</p>
+<p><a href="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-032_1.png"><img class="aligncenter size-large wp-image-15462" src="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-032_1-630x349.png" alt="032: Facebook Isn't the Problem — You Are: Interview with Joshua Becker [Podcast]" width="630" height="349" /></a>Mark Zuckerberg and company have given us an opportunity. An opportunity to reach people and interact with others. And maybe it&#8217;s up to us to make the most of it.</p>
+<p>But let&#8217;s face it. Facebook is a busy place with lots of people vying for your attention. So is it really possible to stand out and get noticed in the crowd? I brought that question to someone I consider an expert on the subject.</p>
+<p>In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, Joshua Becker shares his specific formula for using Facebook to reach more people. If you&#8217;re a content creator or just someone who wants to reach and help more people on the largest social network in the world, you won&#8217;t want to miss it.</p>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below (if viewing this in email, <a href="http://goinswriter.com/how-to-use-facebook/" target="_blank">click here</a>).</p>
+
+<p>You can also download it at <a title="iTunes" href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a title="Stitcher" href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<h3>About my guest</h3>
+<p>Joshua Becker is the founder of the super popular blog <a href="http://www.becomingminimalist.com/" target="_blank">Becoming Minimalist</a>. He&#8217;s also a good friend and incredibly nice guy (last time we hung out together, he bought everyone&#8217;s lunch).</p>
+<p>In less than three years, Joshua followed a few simple strategies that took his Facebook page from 4,000 likes to over 190,000 likes. He describes being on Facebook as a small storefront in the middle of Times Square. It&#8217;s busy, crowded, and filled with people. You have an opportunity to connect with people.</p>
+<p>But how do you stand out and be seen? His advice was simple:</p>
+<blockquote><p><em>Give people the content they are interested in seeing.</em></p></blockquote>
+<p>Simple, but not so easy. How do you know what people want? And how do you give Facebook the kind of content that it thinks people want? You have to find out what people want to see and then deliver that content to them in a way that resonates.</p>
+<p>His basic process is:</p>
+<ol>
+<li>Post consistently to your page (a few times per day).</li>
+<li>Share relevant links with good descriptions and images.</li>
+<li>Use interesting images that people can immediately connect with (image quotes work well).</li>
+</ol>
+<p>Following these principles that Joshua lays out in our interview will give you better engagement results with Facebook. I know, because I&#8217;ve started following his advice and have seen unexpected growth in my own <a title="Jeff Goins on Facebook" href="http://facebook.com/goinswriter" target="_blank">Facebook page</a>.</p>
+<h3> Interview highlights</h3>
+<p>In this interview, Joshua and I talk about:</p>
+<ul>
+<li>The switch Joshua made in how he viewed Facebook and why it made all the difference.</li>
+<li>The specific formula Joshua follows (and that I have started following) for posting on Facebook.</li>
+<li>How to get out of a rut when your engagement declines.</li>
+<li>His thoughts on Facebook ads (and why he rarely uses them).</li>
+<li>How Facebook rewards people who are posting great content and penalizes those who don&#8217;t.</li>
+<li>And a lot more!</li>
+</ul>
+<h3>Resources mentioned</h3>
+<p>Joshua shared some important resources, including where to find free, high-quality photos, and how to edit them. Here are some resources to check out:</p>
+<ul>
+<li><a href="http://pixabay.com/" target="_blank">Pixabay</a></li>
+<li><a href="https://unsplash.com/" target="_blank">Unsplash</a></li>
+<li><a href="http://www.picmonkey.com/" target="_blank">Picmonkey</a> (for editing photos and easily adding text to them)</li>
+<li>Joshua&#8217;s Blog: <a title="Becoming Minimalist" href="http://becomingminimalist.com" target="_blank">Becoming Minimalist</a></li>
+<li><a title="Becoming Minimalist" href="https://www.facebook.com/becomingminimalist" target="_blank">Becoming Minimalist Facebook page</a></li>
+</ul>
+<p>I hope you enjoy the interview. Feel free to download it and share with friends. And I&#8217;d love for you to take a moment and <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a>.</p>
+<p><strong>What strategies are you using to stand out in the crowd?</strong> Share in the <a title="Comments" href="http://goinswriter.com/how-to-use-facebook/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15437">032: Facebook Isn't the Problem — You Are: Interview with Joshua Becker [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/WECUJ5jGaV8" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/how-to-use-facebook/feed/</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_032_-_Josh_Becker_Interview.mp3" length="82732448" type="audio/mpeg" />
+		<itunes:subtitle>Facebook is an opportunity to reach people and interact with others. But it's also a busy place with lots of people vying for your attention. Is it possible to stand out and be noticed in the Facebook crowd?</itunes:subtitle>
+		<itunes:summary>Everyone seems to be complaining about Facebook these days. Too many ads. Too much clutter. Too little interaction with the people you want to reach. But what if Facebook wasn't the problem? What if you were?
+
+(http://goinswriter.com/wp-content/uploads/PL_Header_Ep-032_1-630x349.png)Mark Zuckerberg and company have given us an opportunity. An opportunity to reach people and interact with others. And maybe it's up to us to make the most of it.
+
+But let's face it. Facebook is a busy place with lots of people vying for your attention. So is it really possible to stand out and get noticed in the crowd? I brought that question to someone I consider an expert on the subject.
+
+In this episode of The Portfolio Life (http://goinswriter.com/itunes), Joshua Becker shares his specific formula for using Facebook to reach more people. If you're a content creator or just someone who wants to reach and help more people on the largest social network in the world, you won't want to miss it.
+Listen to the podcast
+To listen to the show, click the player below (if viewing this in email, click here (http://goinswriter.com/how-to-use-facebook/)).
+
+
+
+You can also download it at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+About my guest
+Joshua Becker is the founder of the super popular blog Becoming Minimalist (http://www.becomingminimalist.com/). He's also a good friend and incredibly nice guy (last time we hung out together, he bought everyone's lunch).
+
+In less than three years, Joshua followed a few simple strategies that took his Facebook page from 4,000 likes to over 190,000 likes. He describes being on Facebook as a small storefront in the middle of Times Square. It's busy, crowded, and filled with people. You have an opportunity to connect with people.
+
+But how do you stand out and be seen? His advice was simple:
+Give people the content they are interested in seeing.
+Simple, but not so easy. How do you know what people want? And how do you give Facebook the kind of content that it thinks people want? You have to find out what people want to see and then deliver that content to them in a way that resonates.
+
+His basic process is:
+
+	* Post consistently to your page (a few times per day).
+	* Share relevant links with good descriptions and images.
+	* Use interesting images that people can immediately connect with (image quotes work well).
+
+Following these principles that Joshua lays out in our interview will give you better engagement results with Facebook. I know, because I've started following his advice and have seen unexpected growth in my own Facebook page (http://facebook.com/goinswriter).
+ Interview highlights
+In this interview, Joshua and I talk about:
+
+	* The switch Joshua made in how he viewed Facebook and why it made all the difference.
+	* The specific formula Joshua follows (and that I have started following) for posting on Facebook.
+	* How to get out of a rut when your engagement declines.
+	* His thoughts on Facebook ads (and why he rarely uses them).
+	* How Facebook rewards people who are posting great content and penalizes those who don't.
+	* And a lot more!
+
+Resources mentioned
+Joshua shared some important resources, including where to find free, high-quality photos, and how to edit them. Here are some resources to check out:
+
+	* Pixabay (http://pixabay.com/)
+	* Unsplash (https://unsplash.com/)
+	* Picmonkey (http://www.picmonkey.com/) (for editing photos and easily adding text to them)
+	* Joshua's Blog: Becoming Minimalist (http://becomingminimalist.com)
+	* Becoming Minimalist Facebook page (https://www.facebook.com/becomingminimalist)
+
+I hope you enjoy the interview. Feel free to download it and share with friends. And I'd love for you to take a moment and leave a review on iTunes (http://goinswriter.com/itunes).
+
+What strategies are you using to stand out in the crowd?</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>34:11</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/how-to-use-facebook/</feedburner:origLink></item>
+		<item>
+		<title>Why Pursuing Your Passion Is Not Enough (and What You Should Do Instead)</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/-AdceGdR-Aw/</link>
+		<comments>http://goinswriter.com/passion-not-enough/#comments</comments>
+		<pubDate>Tue, 18 Nov 2014 04:16:12 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Inspiration]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15427</guid>
+		<description><![CDATA[A lot of people will tell that all it takes to succeed in life is to pursue your passion. But is that always true?
+
+There are plenty of people out there who are trying to do things they love and aren't necessarily succeeding. So what are they missing?
+
+The truth is that passion is only one of three characteristics you need to find your calling.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15427">Why Pursuing Your Passion Is Not Enough (and What You Should Do Instead)</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>A lot of people will tell you that all it takes to succeed in life is to pursue your passion. But is that always true?</p>
+<div id="attachment_15452" style="width: 640px" class="wp-caption alignnone"><img src="http://goinswriter.com/wp-content/uploads/5966651715_3027056f42_b-630x438.jpg" alt="Passion" width="630" height="438" class="size-large wp-image-15452" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/21560098@N06/5966651715/">Nina Matthews Photography</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by/2.0/">cc</a></p></div>
+<p>There are plenty of people out there who are trying to do things they love and aren&#8217;t necessarily succeeding. So what are they missing? The truth is that passion is only one of <em>three</em> characteristics you need to find your <a title="Find Your Calling" href="http://goinswriter.com/calling/" target="_blank">calling</a>.</p>
+<div class="special">Watch me explain this in a free video series: <a title="Intentional Blog Video" href="http://goinswriter.com/intentional-blog-video1" target="_blank">Why Passion Is Not Enough</a>.</div>
+<h3>Demand, competency, passion</h3>
+<p>When I&#8217;m working with my students or workshop attendees, I walk them through an exercise in which I ask them to answer three important questions. If you want to <a title="Intentional Blog" href="http://goinswriter.com/intentional-blog-video1" target="_blank">build a blog</a> that people actually read, make a living doing what you love, or launch a business that succeeds, you&#8217;ll have to answer them, too. They are:</p>
+<ul>
+<li>What do people want?</li>
+<li>What am I good at?</li>
+<li>What do I love doing?</li>
+</ul>
+<p>Where these three questions converge is where you&#8217;ll find your &#8220;sweet spot.&#8221; As Frederick Buechner wrote, your vocation lies in the intersection of the world&#8217;s deep need and your deep joy.</p>
+<p>In other words, you have to do something that is both interesting to you and that other people are interested in. And of course, you have to be good (quality is assumed). These questions cover the following areas:</p>
+<ul>
+<li><strong>Demand:</strong> what the world needs or what the market wants.</li>
+<li><strong>Competency:</strong> what skill or ability you offer to meet that demand.</li>
+<li><strong>Passion:</strong> the enjoyment you get from the work you do.</li>
+</ul>
+<p>If you have only one or two of these but not all three, you won&#8217;t make it. Competency without passion is drudge work. And passion without demand is a hobby. You have to have all three to make a meaningful contribution.</p>
+<p>But of course, that&#8217;s not to say there isn&#8217;t value in doing things you love. I have lots of hobbies I enjoy. I just don&#8217;t expect people to pay me for them.</p>
+<p>And neither should you.</p>
+<h3>What&#8217;s in it for them?</h3>
+<p>If you want to get the most satisfaction out of your work and make the most meaningful contribution, you have to move beyond just what you&#8217;re passionate about. You have to consider what&#8217;s in it for other people.</p>
+<p>This is not such a bad thing, actually. Earning the right to share your dream means you value people&#8217;s time. It means you actually care about someone other than yourself. But what does that look like, practically?</p>
+<p>Here are three simple steps you can take today:</p>
+<ol>
+<li><strong>Ask good questions.</strong> How else are you going to figure out what people want? You discover demand when you find out what others are struggling with.</li>
+<li><strong>Share what you know.</strong> The best way to figure out what you&#8217;re good at and what value you can offer the world is to share what seems natural and obvious to you and see what resonates with others.</li>
+<li><strong>Pay attention to what gets you excited.</strong> See how what you share connects with other people and how that affects you. Do you get excited when you teach? Does it drain you to speak in front of people? Take notice of what lights you up and find ways to do more of those things.</li>
+</ol>
+<p>No, passion is not enough. The world needs more than for you to just do what you love. It needs you to make a difference. And each of these steps will help you figure out what people want, how you can deliver value, and what it takes to make that work both fulfilling and satisfying.</p>
+<p>So you had better get started.</p>
+<p>(<strong>Note:</strong> I&#8217;m not sure who first originated this demand-competency-passion model, but lots of folks have addressed it in different ways. I know for a fact that <a href="http://99u.com/articles/7003/finding-your-work-sweet-spot-genuine-interest-skills-opportunity" target="_blank">Scott Belsky</a> and <a href="http://michaelhyatt.com/job-satisfaction.html" target="_blank">Michael Hyatt</a> have both written and spoken about it.)</p>
+<div id="attachment_15431" style="width: 640px" class="wp-caption alignnone"><a href="http://goinswriter.com/intentional-blog-video1"><img class="wp-image-15431 size-large" src="http://goinswriter.com/wp-content/uploads/Screenshot-2014-11-15-23.53.58-630x350.png" alt="Successful Blogging" width="630" height="350" /></a><p class="wp-caption-text">Learn the keys to successful blogging in my <a href="http://goinswriter.com/intentional-blog-video1">free video series</a>.</p></div>
+<div class="special"><strong>Free video:</strong> Learn why passion is not enough to build a popular blog in my free video series: <a title="Keys to Successful Blogging" href="http://goinswriter.com/intentional-blog-video1" target="_blank">The Keys Every Successful Blogger Needs to Master</a>.</div>
+<p><strong>Do you think passion is enough to succeed?</strong> Share in the comments.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15427">Why Pursuing Your Passion Is Not Enough (and What You Should Do Instead)</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/-AdceGdR-Aw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/passion-not-enough/feed/</wfw:commentRss>
+		<slash:comments>39</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/passion-not-enough/</feedburner:origLink></item>
+		<item>
+		<title>031: The Importance of Being Your True Self [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/yTnP7c80njQ/</link>
+		<comments>http://goinswriter.com/true-self-podcast/#comments</comments>
+		<pubDate>Wed, 12 Nov 2014 10:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15344</guid>
+		<description><![CDATA[What do you do? It's a common question. And it seems like the answer should be easy enough. But honestly, it doesn't always feel simple, we often struggle with answering that very question.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15344">031: The Importance of Being Your True Self [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p><em>What do you do? </em>It&#8217;s a common question. And it seems like the answer should be easy enough. But it doesn&#8217;t always feel so simple. Many of us struggle with answering that very question.</p>
+<p><a href="http://goinswriter.com/wp-content/uploads/031_Graphic_1.png"><img class="aligncenter wp-image-15401 size-large" src="http://goinswriter.com/wp-content/uploads/031_Graphic_1-630x349.png" alt="031: The Importance of Being Your True Self [Podcast]" width="630" height="349" /></a></p>
+<p>Sometimes the thing we are doing or the job title we hold doesn&#8217;t encompass who we fully are. Sometimes, our dream looks different than our day job. And the truth is we are more than what we do. We are not just one thing. Which is where the struggle comes in.</p>
+<p>In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, my co-host <a href="http://www.takepermission.com/" target="_blank">Andy Traub</a> and I discuss the importance of owning who you are, even when it feels risky.</p>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below (if viewing this in email, <a href="http://goinswriter.com/true-self-podcast/" target="_blank">click here</a>).</p>
+
+<p>You can also download it at <a title="iTunes" href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a title="Stitcher" href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<p>Listen in as we talk about practical and profound ways to own who you really are. And as usual Andy and I share a couple predictions for the future.</p>
+<h3>What we don&#8217;t say (and why it matters)</h3>
+<p>Sometimes, people won&#8217;t admit who they are. They&#8217;ll hem and haw and stammer, waiting for permission to be their true selves. I know this, because I was this way (still am sometimes). And I can tell you: it is an utter waste of time.</p>
+<p>Here&#8217;s the essence of the episode in a short statement:</p>
+<blockquote><p><em>The things you neglect to say about yourself say as much, if not more, than the things you really do say. </em>[<a href="http://ctt.ec/GtQe_" target="_blank">Tweet that</a>]</p></blockquote>
+<p>In other words, what you are afraid to admit about yourself just might be an indicator of exactly who you are.</p>
+<p>On the show, we talk more about this fear of becoming ourselves and how we shouldn&#8217;t ignore it. Instead, we ought to realize that in the midst of this fear lie some of our greatest assets.</p>
+<p>Don&#8217;t spend your life hiding behind the facade of a fake self. Be your true self &#8212; you&#8217;ll be happier, more successful, and live a better life. [<a href="http://ctt.ec/mV8K6" target="_blank">Tweet that</a>]</p>
+<p>As you listen to this week&#8217;s episode of the podcast, I hope you&#8217;ll find encouragement to be your true self, even when it feels risky.</p>
+<h3>Show highlights</h3>
+<p>In this episode we discuss:</p>
+<ul>
+<li>The most significant conversation I&#8217;ve ever had, in regards to my vocation.</li>
+<li>When I began to call myself a writer and what happened the following week.</li>
+<li>The most overlooked page on every website, the number one clicked page on my homepage, and why they are so important.</li>
+<li>Three things that need to be included on your About Page.</li>
+<li>The importance of owning who you are.</li>
+<li>The bravest thing you can do for yourself.</li>
+</ul>
+<h3>Resources mentioned</h3>
+<ul>
+<li><em><a href="http://www.amazon.com/gp/product/159285849X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=159285849X&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=S3ZETLJF26TKGC3D" target="_blank">The Gifts of Imperfections</a> </em>by Brené Brown</li>
+<li><a href="http://bit.ly/1x3u90K" target="_blank">HarperCollins e-commerce program for authors</a></li>
+<li><a href="http://www.amazon.com/gp/product/0470643471/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0470643471&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=ETIY2TDFKD27XFDW" target="_blank"><em>Book Yourself Solid</em></a> by Michael Port</li>
+</ul>
+<p>I hope you enjoy this week&#8217;s episode. Feel free to download it and share with friends. And I&#8217;d love for you to take a moment to <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a> (this helps more people find the podcast).</p>
+<div class="special">I wanted to remind you about Jeff Walker&#8217;s video series on how to do online product launches. I highly recommend this free video series. I&#8217;m a proud student and affiliate and recommend his course (which you&#8217;ll hear more about but are in no way obligated to buy). I can honestly say this is the best stuff I&#8217;ve ever seen on the subject of launches. If you decide to get his course, I will receive a commission, but remember I don&#8217;t recommend anything I don&#8217;t use myself and absolutely love.</p>
+<p><a href="http://productlaunchformula.com/sl20/?30006" target="_blank">Click here</a> to check out the videos.</div>
+<p><strong>What&#8217;s one fear that keeps you from being your true self?</strong> Share in the <a title="Comments" href="http://goinswriter.com/true-self-podcast/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15344">031: The Importance of Being Your True Self [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/yTnP7c80njQ" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/true-self-podcast/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_031_-_What_We_Dont_Say.mp3" length="64734932" type="audio/mpeg" />
+		<itunes:subtitle>What do you do? It's a common question. And it seems like the answer should be easy enough. But honestly, it doesn't always feel simple, we often struggle with answering that very question.</itunes:subtitle>
+		<itunes:summary>What do you do? It's a common question. And it seems like the answer should be easy enough. But it doesn't always feel so simple. Many of us struggle with answering that very question.
+
+(http://goinswriter.com/wp-content/uploads/031_Graphic_1-630x349.png)
+
+Sometimes the thing we are doing or the job title we hold doesn't encompass who we fully are. Sometimes, our dream looks different than our day job. And the truth is we are more than what we do. We are not just one thing. Which is where the struggle comes in.
+
+In this episode of The Portfolio Life (http://goinswriter.com/itunes), my co-host Andy Traub (http://www.takepermission.com/) and I discuss the importance of owning who you are, even when it feels risky.
+Listen to the podcast
+To listen to the show, click the player below (if viewing this in email, click here (http://goinswriter.com/true-self-podcast/)).
+
+
+
+You can also download it at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+
+Listen in as we talk about practical and profound ways to own who you really are. And as usual Andy and I share a couple predictions for the future.
+What we don't say (and why it matters)
+Sometimes, people won't admit who they are. They'll hem and haw and stammer, waiting for permission to be their true selves. I know this, because I was this way (still am sometimes). And I can tell you: it is an utter waste of time.
+
+Here's the essence of the episode in a short statement:
+The things you neglect to say about yourself say as much, if not more, than the things you really do say. [Tweet that (http://ctt.ec/GtQe_)]
+In other words, what you are afraid to admit about yourself just might be an indicator of exactly who you are.
+
+On the show, we talk more about this fear of becoming ourselves and how we shouldn't ignore it. Instead, we ought to realize that in the midst of this fear lie some of our greatest assets.
+
+Don't spend your life hiding behind the facade of a fake self. Be your true self -- you'll be happier, more successful, and live a better life. [Tweet that (http://ctt.ec/mV8K6)]
+
+As you listen to this week's episode of the podcast, I hope you'll find encouragement to be your true self, even when it feels risky.
+Show highlights
+In this episode we discuss:
+
+	* The most significant conversation I've ever had, in regards to my vocation.
+	* When I began to call myself a writer and what happened the following week.
+	* The most overlooked page on every website, the number one clicked page on my homepage, and why they are so important.
+	* Three things that need to be included on your About Page.
+	* The importance of owning who you are.
+	* The bravest thing you can do for yourself.
+
+Resources mentioned
+
+	* The Gifts of Imperfections (http://www.amazon.com/gp/product/159285849X/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=159285849X&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=S3ZETLJF26TKGC3D) by Brené Brown
+	* HarperCollins e-commerce program for authors (http://bit.ly/1x3u90K)
+	* Book Yourself Solid by Michael Port
+
+I hope you enjoy this week's episode. Feel free to download it and share with friends. And I'd love for you to take a moment to leave a review on iTunes (http://goinswriter.com/itunes) (this helps more people find the podcast).
+
+
+
+What's one fear that keeps you from being your true self? Share in the comments (http://goinswriter.com/true-self-podcast/#disqus_thread).</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>26:41</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/true-self-podcast/</feedburner:origLink></item>
+	</channel>
+</rss>
