@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Goins, Writer</title>
+	
+	<link>http://goinswriter.com</link>
+	<description>A blog about writing, creative ideas, and making a difference in the world.</description>
+	<lastBuildDate>Sun, 04 Jan 2015 19:50:13 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0.1</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.9" mode="advanced" -->
+	<itunes:summary>Jeff Goins shares thoughts &amp; ideas that will help you to pursue work that matters, make a difference with your art &amp; discover your true voice!</itunes:summary>
+	<itunes:author>Jeff Goins</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://goinswriter.com/wp-content/uploads/powerpress/Portfolio-Life-cover-art-1400x1400.jpg" />
+	<itunes:owner>
+		<itunes:name>Jeff Goins</itunes:name>
+		<itunes:email>jeff@goinswriter.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>jeff@goinswriter.com (Jeff Goins)</managingEditor>
+	<copyright>© GoinsWriter.com</copyright>
+	<itunes:subtitle>On Writing, Ideas, and Making a Difference</itunes:subtitle>
+	<itunes:keywords>Jeff Goins,Writer,Work,Career,Art,True Voice</itunes:keywords>
+	<image><link>http://goinswriter.com/</link><url>http://goinswriter.com/wp-content/uploads/2011/03/GoinsWriterheader-01.png</url><title>Goinswriter Chicklet</title></image>
+	<itunes:category text="Business">
+		<itunes:category text="Management &amp; Marketing" />
+	</itunes:category>
+	<itunes:category text="Arts">
+		<itunes:category text="Literature" />
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Careers" />
+	</itunes:category>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/GoinsWriter" /><feedburner:info uri="goinswriter" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/</creativeCommons:license><xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/GoinsWriter" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FGoinsWriter" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><feedburner:browserFriendly>Thanks for subscribing to my blog: Goins, Writer. I hope you enjoy what you read.</feedburner:browserFriendly><item>
+		<title>Get Your Message Shared with This Simple Tactic</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/Of6-QgMvKgg/</link>
+		<comments>http://goinswriter.com/share-page/#comments</comments>
+		<pubDate>Sat, 03 Jan 2015 10:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Daniel Decker]]></dc:creator>
+				<category><![CDATA[Marketing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15870</guid>
+		<description><![CDATA[If you are on Twitter, Facebook or any other form of social media then you know how it feels when you post something that gets LIKED or shared, especially if it gets shared a lot. It’s a good feeling isn’t it? Not just for the validation of your message but also for the increased reach and impact that you know you are having. Now, imagine how you would feel if you could get your message shared more.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15870">Get Your Message Shared with This Simple Tactic</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<div class="special"><strong>Editor’s note:</strong> This is a guest post by Daniel Decker, who specializes in helping authors build platforms, launch books, and turn their messages into sustainable businesses. Follow him on his <a href="http://www.danieldecker.net/" target="_blank">blog</a> and on <a href="http://www.twitter.com/danieldecker" target="_blank">Twitter</a>.</div>
+<p>If you are on Twitter, Facebook or any other form of social media, then you know how it feels when you post something that gets shared, especially when it gets shared a lot.</p>
+<div id="attachment_15877" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-15877" src="http://goinswriter.com/wp-content/uploads/social-media-630x405.png" alt="Get Your Message Shared with This Simple Tactic" width="630" height="405" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/21959506@N00/4169516827/">jrhode</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a></p></div>
+<p>It’s a good feeling, isn’t it? Not just for the validation of your message, but also for the increased reach and impact you know you are having.</p>
+<p>Now, imagine how you would feel if you could get your message shared more. You <em>can</em>. There is a simple tactic that you could implement today to get your message shared by many more people.</p>
+<p>Here it is: create a share page for your blog or website.</p>
+<p>Simply put, this is a page that has pre-created messages that people can easily share. It can be a mix of some of your most engaging thoughts, quotes, or posts in the form of embedded tweets, shareable image quotes, and other content. It’s a makeup of messages you feel people will gravitate towards most and want to share with others.</p>
+<p>These are not “promotional” messages necessarily; although, they can be, depending on the use. They are primarily messages with content that people find valuable and want to share. As a result, your reach expands and so does your impact (for your core message or whatever it is you are trying to bring attention to).</p>
+<h3>A share page works well with a launch</h3>
+<p>You can use a share page specifically around a book or product launch.</p>
+<p><a href="http://www.jongordon.com/carpenter/launch.html" target="_blank">See an example here</a> of one bestselling author Jon Gordon used when we launched his book <em>The Carpenter</em>. Not only did it include embedded tweets and images for downloading and/or posting to Pinterest, but it also included sample blog and email copy that fans could use to promote the book.</p>
+<p>In Jon’s case, content messages such as this one below were shared a lot:</p>
+<blockquote><p>&#8220;You aren&#8217;t a true success unless you are helping others be successful.&#8221; &#8211;@jongordon11 #LoveServeCare www.Carpenter11.com</p></blockquote>
+<p>Since the messages also included the link, the book site received a ton of traffic which then resulted in increased book sales, new email subscribers, and social media followers.</p>
+<p>Imagine 50, 100, 1000 or even more of your fans utilizing the messages you provide in the timeframe you suggest. The concentrated impact combined with the reach is phenomenal. And the results can be exponential.</p>
+<h3>It doesn’t have to be exclusive to a launch</h3>
+<p>A share page can be a page on your site that you keep as a resource for fans and new visitors. It can be in your site navigation as a link or a link in a thank-you email someone gets after signing up at your site.</p>
+<p>It’s a place where people can engage with your best material and share it with others, simply because they find it valuable.</p>
+<p>See an example used as a promo page after someone signed up for our recent Author Platform Summit <a href="http://authorplatformsummit.com/thank-you/" target="_blank">here</a>. The page is very simple, but it asked for people to click links to tweet at their favorite speaker. It worked amazingly well.</p>
+<p>If you decide to create a general share page on your site, I’d also suggest adding simple SHARE THIS SITE links at the top of the page to make it easy for someone to click and share your site. Then proceed with the rest of your content-driven shareable messages down the page.</p>
+<p>Take a look at <a href="http://www.higherlevelgroup.com/goinsshare.html" target="_blank">a sample share page for Jeff Goins</a> to illustrate how simple it can be. It’s also a great example of how you can utilize the power of pre-created content to encourage increased sharing.</p>
+<h3>Why does a share page work?</h3>
+<p>A share page is the easy button. When you have pre-created content with share links, it removes friction by making it easy for people to share. When it’s easy, people take action.</p>
+<div class="special"><strong>Pro Tip:</strong> If you are on Twitter, you can go back and see a your most popular tweets by using <a href="http://www.mytoptweet.com/" target="_blank">MyTopTweet.com</a>. It’s free and useful.</div>
+<p>You might start by posting some of your most popular content on your share page because you already know that it resonates. You can also type in other Twitter users&#8217; names to see their top tweets (which could then give you additional content ideas that you might want to utilize because you’ll know the messages resonate with others).</p>
+<p>Sounds good, right?</p>
+<p><img class="aligncenter size-large wp-image-15876" src="http://goinswriter.com/wp-content/uploads/GoinsOutlast.jpg" alt="&quot;You can outlast those who are lucky and outwork those who are lazy.&quot;" width="660" height="660" /></p>
+<h3>Now, how do you create one of your own?</h3>
+<p>Here are four steps:</p>
+<ol>
+<li>Create a SHARE page on your website. Follow the framework of examples cited above.</li>
+<li>Create embedded tweets using <a title="Click to Tweet" href="http://clicktotweet.com" target="_blank">ClickToTweet</a>.com. You can copy and paste your tweet it will create a custom link for your message. You can then just copy that link into your &#8220;TWEET THIS NOW&#8221; line.</li>
+<li>Create custom shareable images. It’s best if you get images professional done by a designer or use a service like <a title="99 Designs" href="http://99designs.com" target="_blank">99designs.com</a>. I typically make images in 612&#215;612 pixel format so that they work well for most forms of social media (from Instagram to Pinterest, Facebook and Twitter). Or you can create optimized images for each medium. You can also use text overlay apps like <a href="http://wordswag.co/" target="_blank">Wordswag</a>. Embedding the image and Pinterest button on your SHARE page is a little more advanced, so you may want to get a web designer to help you. <a href="https://business.pinterest.com/en/widget-builder#do_pin_it_button" target="_blank">Here is the link to create your Pinterest embed button.</a> You can find one to do it quick and affordably from <a title="ELance" href="http://elance.com" target="_blank">Elance</a> or any number of places.</li>
+<li>Add any other additional content and you’re set.</li>
+</ol>
+<p><strong>Do you now plan to create a share page on your site?</strong> Share in the <a href="http://goinswriter.com/share-page/#disqus_thread">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15870">Get Your Message Shared with This Simple Tactic</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/Of6-QgMvKgg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/share-page/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/share-page/</feedburner:origLink></item>
+		<item>
+		<title>How to Not Set Yourself up for Failure with New Year’s Resolutions</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/M6QIHK-dqSM/</link>
+		<comments>http://goinswriter.com/failed-resolutions/#comments</comments>
+		<pubDate>Fri, 02 Jan 2015 14:26:14 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Making a Difference]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15944</guid>
+		<description><![CDATA[A few months ago, I cussed at the scale in my bathroom. I had been working out and eating well for months and all I'd lost was a measly three pounds.
+
+I didn't get it. What had I done wrong? After talking to a fitness professional, I realized maybe nothing. I had been measuring the wrong thing.
+
+Whether it's losing weight or writing a book or making more money, most people won't complete their resolutions this year. <div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15944">How to Not Set Yourself up for Failure with New Year's Resolutions</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>A few months ago, I cussed at the scale in my bathroom. I had been working out and eating well for months and all I&#8217;d lost was a measly three pounds.</p>
+<div id="attachment_15945" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-15945" src="http://goinswriter.com/wp-content/uploads/failed-resolutions.jpg" alt="Bathroom scale" width="630" height="420" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/8590522@N06/4270445346/">foshydog</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></p></div>
+<p>I didn&#8217;t get it. What had I done wrong? After talking to a fitness professional, I realized maybe nothing. It just takes time. However, he did suggest perhaps I had been measuring the wrong thing.</p>
+<p>Whether it&#8217;s losing weight or writing a book or making more money, <a title="The Secret to Setting Resolutions that Stick" href="http://bestyearever.me/jeffgoins/resolutions" target="_blank">most people won&#8217;t complete their resolutions this year</a>.</p>
+<p>In fact, many will fail within the first month of trying. They&#8217;ll get frustrated and throw their hands up in the air, thinking it&#8217;s futile. Shame will creep in, followed by guilt and inaction. And before they know it, a whole year will have gone by and the cycle will all start over.</p>
+<p>There is a way, however, that leads to breakthrough instead of disappointment when it comes to setting and achieving goals: <strong>Measure the process, not the outcome.</strong></p>
+<h3>Measuring what matters</h3>
+<p>Instead of setting a goal to write a book this year, what if you decided to <a title="My 500 Words" href="http://goinswriter.com/my500words/" target="_blank">write 500 words a day</a>? It may take several months or even the whole year, but if you put in enough time and stick to the schedule you&#8217;ll achieve your goal &#8212; eventually.</p>
+<p>Or instead of saying you want to lose 20 pounds, what if you just decided to go to the gym every other day, no matter what? You might not shed a ton of weight at once, but if you kept up the habit, you&#8217;d start seeing the results you wanted &#8212; eventually.</p>
+<p>Or instead of declaring to your spouse that you want a better marriage, what if you decided to do something extra nice every day without expectation? You might not have a better relationship overnight, but I&#8217;m willing to bet that as you stayed the course things would begin to improve &#8212; eventually.</p>
+<p>And of course that&#8217;s the operative word: <em>eventually</em>.</p>
+<p>Do you see the difference here? The typical goal-setting mindset tends to focus on the outcome with little to no regard for the process it takes to get there.</p>
+<p>That&#8217;s like saying you want to drive from New York to Los Angeles without looking at how much gas is in the tank. Just simply saying it won&#8217;t get you there. But if you plan a little, focusing on each leg in the journey and what you need to complete it, you&#8217;ll get there. Eventually.</p>
+<p>As I like to say, if you do the work, you will see the results.</p>
+<h3>The 20-mile march</h3>
+<p>In his book <em>Great by Choice</em>, author Jim Collins tells the stories of two explorers wanting to be the first to visit the South Pole. One plans on everything going more or less according to his expectations, and when things don&#8217;t, it sets him back. The other, however, decides to march 20 miles every day, no matter what.</p>
+<p>The first explorer blames everything, even the weather, for his failure. He and his team do, in fact, reach the South Pole, but sadly they all die on the return voyage home. The second explorer not only succeeds in reaching Antarctica first but lives to tell the tale.</p>
+<p>There&#8217;s a lot we can learn from this approach in how we set and achieve our own goals.</p>
+<p>Collins calls this slow-and-steady planning process <a title="20 Mile March" href="http://www.jimcollins.com/article_topics/articles/how-to-manage-through-chaos.html" target="_blank">The 20-mile March</a> and says it&#8217;s a common trait in the greatest of leaders. They don&#8217;t set over-ambitious goals or unrealistic targets. Instead, they strategically map out where they want to go and what it will take to get there. And consistently, they achieve their goals.</p>
+<p>So will you, if you can let go of the obsession we have with results and pay attention to what matters most &#8212; the process. Your daily habits. Don&#8217;t neglect those and you&#8217;ll get to where you want to be eventually.</p>
+<p>It just takes:</p>
+<ul>
+<li>the <strong>right attitude</strong>: &#8220;I will get there eventually&#8221;</li>
+<li>the <strong>right process</strong>: &#8220;Here&#8217;s what I need to do every day&#8221;</li>
+<li>and <strong>enough time</strong>.</li>
+</ul>
+<p>When you don&#8217;t see the results you want, you either need to change your attitude, the process, or wait a little longer. But the truth is you don&#8217;t have control over the outcome. What you can control 100% of the way, though, is the process.</p>
+<p>So remember to celebrate small victories along the way, even if it&#8217;s a measly three pounds.</p>
+<p>If you want to do this with writing, I recommend you <a title="MY 500 Words" href="http://goinswriter.com/my500words/" target="_blank">sign up for my free 31-day writing challenge to kick off the New Year with a daily writing habit</a>.</p>
+<p>And if you want to make sure you set the right resolutions this new year, I recommend you <a title="Resolutions Live Call" href="http://bestyearever.me/jeffgoins/resolutions" target="_blank">register for this live Q&amp;A with Michael on the secret to setting resolutions that stick</a>.</p>
+<p><b>How do you set yourself up for failure with goals and resolutions?</b> Share in the <a title="Comments" href="http://goinswriter.com/failed-resolutions/#disqus_thread" target="_blank">comments by clicking here</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15944">How to Not Set Yourself up for Failure with New Year's Resolutions</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/M6QIHK-dqSM" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/failed-resolutions/feed/</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/failed-resolutions/</feedburner:origLink></item>
+		<item>
+		<title>The Real Reason We Don’t Set Goals</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/0IkhSemdZUM/</link>
+		<comments>http://goinswriter.com/dont-set-goals/#comments</comments>
+		<pubDate>Wed, 31 Dec 2014 10:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Productivity]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15740</guid>
+		<description><![CDATA[I used to dream what my future would look like. I'd fantasize about becoming a writer or having the freedom to do what I wanted. And then life would drift by, indifferent to my dreams, and I'd find myself wondering, “Where did it all go?”<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15740">The Real Reason We Don't Set Goals</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>I used to dream of what my future would look like. I&#8217;d fantasize about becoming a writer or having the freedom to do what I wanted. And then life would drift by, indifferent to my dreams, and I&#8217;d find myself wondering, “Where did it all go?”</p>
+<div id="attachment_15925" style="width: 640px" class="wp-caption aligncenter"><a href="http://goinswriter.com/wp-content/uploads/457202680_7493fc3d72_o.jpg"><img class="size-large wp-image-15925" src="http://goinswriter.com/wp-content/uploads/457202680_7493fc3d72_o-630x420.jpg" alt="The Real Reason We Don't Set Goals" width="630" height="420" /></a><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/95714156@N00/457202680/">VisualAge</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></p></div>
+<p>I was living but wasn’t fully alive. I had a job, but wasn&#8217;t really doing the work I was meant to do.</p>
+<p>As is the case for many, my twenties were a period of feeling like I was clawing around in the dark, unsure of what I was supposed to be doing or even where I was headed. The experience taught me a lot, but I can&#8217;t help but feel like maybe I wasted that time.</p>
+<p>During this decade of confusion, I’d occasionally think of what I wanted life to look like but then I&#8217;d never follow through on that vision. Something was missing, something important, something that was beyond difficult for me:</p>
+<p>I needed a plan.</p>
+<h3>Why we don&#8217;t set goals</h3>
+<p>It&#8217;s hard for me to admit now that I spent so much time waiting for the right moment to take control of my life, but I did.</p>
+<p>I am finding, though, that this isn&#8217;t so rare. A lot of people treat their lives as something that happens to them rather than a grand adventure in which they have a part to play.</p>
+<p>When it comes to goals, many of us freeze. We get paralyzed. Sure, we have dreams, but to state them out loud or plot a course for achieving such things seems pointless.</p>
+<p>Why do we do this? Why don&#8217;t we set goals?</p>
+<p>There are a few reasons, I think:</p>
+<ul>
+<li>We’re scared.</li>
+<li>We’re lazy.</li>
+<li>We don’t know what we really want.</li>
+</ul>
+<p>When I recently <a href="http://goinswriter.com/setting-goals-podcast/">interviewed Michael Hyatt</a> on the subject of goal-setting, he shed some light on why so many seem to get stuck in dreaming that doesn&#8217;t lead to action.</p>
+<p>The secret to succeeding in your goals is, in fact, three things:</p>
+<ol>
+<li><strong>Courage.</strong> You need to lean into the fear, not avoid it. Discomfort is a sign you’re on the right track. Don’t avoid the situations that feel challenging or audacious, because that’s where we tend to grow the most.</li>
+<li><strong>Commitment.</strong> Yes, you actually have to do some work. Living the best year of your life won’t necessarily be easy, but it will be exciting – a grand adventure worth dedicating your life to. And it all begins with a decision to start.</li>
+<li><strong>Clarity.</strong> Before you can set a goal, much less achieve one, you have to know what you want. You have to be clear about who you are and where you want to end up in life.</li>
+</ol>
+<p>You have to have all three of these if you&#8217;re going to live the kind of life that you dream of.</p>
+<h3>The life you&#8217;ve always dreamed of</h3>
+<p>A few years ago, I finally wrote down some goals. It felt scary and silly, but I did it, anyway. These goals included:</p>
+<ul>
+<li>Write and publish a book.</li>
+<li>Make enough money to support my wife so she could stay home and be a full-time mom.</li>
+<li>Quit my job and become a full-time author, speaker, and coach.</li>
+</ul>
+<p>The target date for these goals was 2021. They were 10-year goals. I ended up accomplishing them in less than two years. In fact, I exceeded every single goal I set in one-fifth the time I thought it would take.</p>
+<p><strong>How did this happen?</strong></p>
+<p>I wrote my goals down so that I could get clear about exactly what I wanted and then committed to a course of action that would get me there. And in less than a quarter of the time I thought it would take, I achieved every goal.</p>
+<p>What do <em>you</em> need to actually live the life you dream of? The best place to begin is to imagine what you want your life to look in a year, or even a decade, from now. Then ask yourself how you can begin to work backwards from there. It won&#8217;t be easy, necessarily, but at the same time this isn&#8217;t rocket science.</p>
+<p>Achieving your goals is merely a matter of courage, commitment, and clarity.</p>
+<h3>So what does that mean for <em>you</em>?</h3>
+<p>It&#8217;s no coincidence that the year I finally wrote down those goals was in the context of a coaching group I had joined. I had a community to support me and people to hold me accountable to pursuing my dream.</p>
+<p>When it comes to goal setting, we all need help. That&#8217;s why I&#8217;m thrilled to take part in Michael Hyatt&#8217;s <a title="Your Best Year Ever" href="http://bestyearever.me/jeffgoins" target="_blank">5 Days to Your Best Year Ever </a>program. If you need some more help in this area, I highly recommend it. This is the second year he&#8217;s done it, and I intend to take it every year.</p>
+<p>Investing five days in an action plan that leads to what could be your best year ever seems like a small investment. Doesn&#8217;t it? I would love for you to join me in reclaiming 2015 as the year when our wildest dreams come true.</p>
+<p>I’m a proud affiliate of this course, which means if you sign up for it, I get a commission. But remember: I don’t endorse anything I don’t use and love myself. And you can download all kinds of free stuff without having to buy the course:</p>
+<p><a href="http://bestyearever.me/jeffgoins">Find out more about how to have your best year ever by signing up for this free video series (if you haven&#8217;t already done so)</a>.</p>
+<p><a title="Achievers eBook" href="http://bestyearever.me/jeffgoins/achievers" target="_blank">Download this free eBook on how top influencers plan their year</a>.</p>
+<p>And once you do that, answer this question&#8230;</p>
+<p><strong>Have you ever written down your goals? What happened?</strong> Share in the <a title="Comments" href="http://goinswriter.com/dont-set-goals/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15740">The Real Reason We Don't Set Goals</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/0IkhSemdZUM" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/dont-set-goals/feed/</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/dont-set-goals/</feedburner:origLink></item>
+		<item>
+		<title>Looking Back (Honestly) at the Past Year</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/HEElN6ZJDZs/</link>
+		<comments>http://goinswriter.com/year-review/#comments</comments>
+		<pubDate>Mon, 29 Dec 2014 10:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15903</guid>
+		<description><![CDATA[In case you haven’t been on Facebook lately, everyone is sharing a photo collage of the past year. One friend, however, pointed out that hers was entirely inaccurate: “no photos of me crying on the kitchen floor over another failed recipe,” she said. I love that.
+
+There’s this sense online, I think, that we ought to be showing our best selves with the world. And that's the wrong way to go about it.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15903">Looking Back (Honestly) at the Past Year</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>In case you haven’t been on Facebook lately, you may have missed that everyone and their brother is sharing a <a title="Year in Review" href="http://techcrunch.com/2014/12/25/facebooks-year-in-review-feature-will-chronicle-your-2014-good-or-bad/" target="_blank">photo collage of the past year</a>.</p>
+<div id="attachment_15904" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-15904" src="http://goinswriter.com/wp-content/uploads/facebook_year_in_review_2014.jpg" alt="Facebook: Year in Review" width="630" height="471" /><p class="wp-caption-text">Facebook: Year in Review</p></div>
+<p>One friend pointed out that hers was entirely inaccurate, though. “No photos of me crying on the kitchen floor over another failed recipe,” she said.</p>
+<p>I love that.</p>
+<p>There’s this sense, I think, that we ought to be showing our best selves online. And maybe we are missing the point when we do that.</p>
+<ul>
+<li>On Instagram, we display well-edited versions of our best moments.</li>
+<li>On Twitter, we post our pithiest remarks and save the stupid things we say (hopefully) for offline chatter.</li>
+<li>On Facebook, we share what we want with whom we want to see it.</li>
+</ul>
+<p>We are not living our true selves in front of the world, much less in front of those who matter most. We are curating memories and moments as if they were pieces of art to be hung on the walls while the rest gets stuffed in the basement.</p>
+<p>Why do we do this?</p>
+<p>I think it has to do with fear. We hide because we are afraid of being known. Because at our core many of us believe we are unlovable. <em>If people really knew me, </em>I often think,<em> they wouldn&#8217;t like, much less love, me.</em></p>
+<p>But maybe we have this all wrong. In his upcoming book <a title="Scary Close" href="http://amzn.to/1COSih5" target="_blank"><em>Scary Close</em></a> Donald Miller points out that our shortcomings are what make us lovable. If we were perfect, there would be no need for grace to fill in the cracks of our inadequacies.</p>
+<p>It’s a beautiful thought. We spend all this time trying to reach perfection. But what if all this effort wasn’t actually leading us where we thought?</p>
+<h3>The “real” me</h3>
+<p>Recently, I’ve been reconsidering my priorities.</p>
+<p>Do I really want to become more popular? Do I really need to be famous? Or would I rather just be better than I was yesterday? “There is no fun in being famous,” Frederick Buechner once wrote, “unless everyone is famous.” I’m starting to agree.</p>
+<p>If my life were a movie, I think right now it would be anticlimactic. An artsy drama with a killer soundtrack and believable characters, but nothing too gripping to keep you in your seat.</p>
+<p>The protagonist would be a sarcastic hero who never really breaks out of his bad habits. You&#8217;d like him but never see him grow into who he was capable of being. The credits would roll, and you&#8217;d find yourself feeling frustrated.</p>
+<p>Is it any wonder these are the kinds of movies I am attracted to? Understated but beautiful flicks like <em>Garden State</em> and <em>Dan in Real Life</em>? There is a certain poetry and artistic integrity to unresolved conflicts, but are these the stories we want to be <em>living</em>? I&#8217;m not so sure.</p>
+<p>Currently, I&#8217;m working through <a title="Best Year Ever" href="http://bestyearever.me/jeffgoins" target="_blank">Michael Hyatt&#8217;s 5 Days to Your Best Year Ever course</a>, and one of the first exercises is to reflect on your past year. Instead of looking at my Facebook timeline, I&#8217;m asking myself three hard questions.</p>
+<h3>Question #1: Where have I settled?</h3>
+<p>Looking back, I can count many successes from this year:</p>
+<ul>
+<li>I made more money than I ever had in my life,</li>
+<li>I met new and interesting people,</li>
+<li>I traveled to interesting places like Italy and Africa.</li>
+</ul>
+<p>But in many ways, I still feel like I played it safe, like I wasn’t fully realizing who I was born to be. So the question must be asked:</p>
+<p>Have I settled?</p>
+<p>I think maybe I have. Maybe I’ve settled for a life that is mostly about me, one in which my self-worth is measured by how many people leave a comment on my blog or by how much money is in my bank account. And &#8212; I don&#8217;t know &#8212; that just feels a little off-track.</p>
+<p>Which brings me to my second question&#8230;</p>
+<h3>Question #2: Did I measure the wrong things?</h3>
+<p>Measuring your success can be healthy. Goals can be good, and metrics help you focus. But for me, constantly checking the numbers has become ammunition for beating myself up.</p>
+<p>Too often this year, I’ve sought out criticism not out of a genuine interest to grow, but as an excuse to confirm my insecurities. But the truth is I&#8217;ll never be good enough, never measure up to my expectations. Because I am always changing those expectations, always wanting more.</p>
+<p>And as the target moves, I keep flinging arrows and cussing under my breath when I miss the mark. “If you keep that up,” a friend told me, “you will become a miserable old man.”</p>
+<p>He’s right.</p>
+<p>I can’t continue moving the target without taking time to adjust my aim. I have to redefine what success looks like (more on that soon). But that&#8217;s not to say you can&#8217;t learn from failure. Or that you shouldn&#8217;t acknowledge your shortcomings.</p>
+<p>Which brings me to my third and final question&#8230;</p>
+<h3>Question #3: Where have I failed?</h3>
+<p>In spite of some success, I have failed this year. Quite a lot, actually. But not in the most obvious, share-it-on-Facebook ways. Continually, I have missed the mark in one major area: relationships.</p>
+<p>In particular, I have failed to love in these three areas:</p>
+<ol>
+<li><strong>Loving my wife. </strong>I&#8217;ve not been the husband my wife deserves. I don’t know that I&#8217;ve been a “bad” husband and doubt Ashley would characterize me as that. But I know that I’ve played it safe here, that I haven’t been as bold and audacious as I could have been. I want to change that, want to be someone who is interested in others as much as he is in himself. And that begins with my bride.</li>
+<li><strong>Loving my readers.</strong> I love the work that I do, but at times I’ve made my job too much about my own success and not enough about helping the most people. I don’t think making money or growing your business is innately bad, but I’m starting to get bored with focusing too much on the bottom line. I want <em>impact</em> to be my most important metric.</li>
+<li><strong>Loving myself.</strong> I mentioned to a friend that I wanted to lose about twenty pounds, and he said to me, “Do you <em>need</em> to lose weight?” I think I do, but more than that, I <em>want</em> to. Getting into better shape would give me more confidence and make me feel more comfortable. Which is a major theme for next year: self-care. I&#8217;m intentionally investing in becoming a healthier person &#8212; physically, emotionally, and spiritually. For what good is it for a man to gain the whole world and lose himself in the process?</li>
+</ol>
+<p>You can really beat yourself up with this question of &#8220;where have I failed?&#8221; But for me, it&#8217;s about addressing the areas I&#8217;ve avoided because I know they&#8217;re going to reveal my shortcomings. I tend to not want to do things that I won&#8217;t be any good at, and sometimes, that&#8217;s just not an option.</p>
+<h3>Looking forward</h3>
+<p>Now that I know these things, what will I do about them? I want to do more meaningful work, reach more people, and live a happier life. I want to love well the people that matter the most.</p>
+<p>I want to feel like George Bailey does at the end of <em>It’s a Wonderful Life</em>. When I&#8217;m on my death bed, looking back at my life, I want to know that I ran the race well. Not that I was the most famous or most successful, but as Harry Bailey puts it in the very last scene, “the richest man I know!”</p>
+<p>Of course, he means rich in relationships. And now, as the cold wind of winter finally creeps in to my part of the world, I wonder if there is any other kind.</p>
+<p>If you want to make this next year your best year ever, I encourage you to not just look at the things that are easy to share, but to dig deep and ask yourself the tough questions. Not just with what you&#8217;re willing to post on Facebook. You might be surprised by what you find.</p>
+<div class="special">Have you ever done an honest yearly review? <a title="Best Year Ever" href="http://bestyearever.me/jeffgoins/" target="_blank">Get started by watching these free videos from Michael Hyatt.</a> Chris Guillebeau also has a <a href="http://chrisguillebeau.com/how-to-conduct-your-own-annual-review">great tool for this process</a>.</div>
+<p><strong>How would you answer the above questions?</strong> Share in the <a title="Comments" href="http://goinswriter.com/year-review/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15903">Looking Back (Honestly) at the Past Year</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/HEElN6ZJDZs" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/year-review/feed/</wfw:commentRss>
+		<slash:comments>101</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/year-review/</feedburner:origLink></item>
+		<item>
+		<title>What We Can Learn from Christmas Eve</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/h0xRRnzPHMI/</link>
+		<comments>http://goinswriter.com/christmas-eve/#comments</comments>
+		<pubDate>Wed, 24 Dec 2014 10:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=12071</guid>
+		<description><![CDATA[Christmas Eve: the perfect picture of anticipation: sleepless excitement for something we’ve been waiting all year for.
+
+Every year on December 24, my parents let us open a present. This was a teaser, a taste of things to come, and we kids relished it. 
+
+Of course, it wasn’t much of a surprise — my mom almost always got us new pajamas, even when we didn’t need them. But still, it was a ritual of hope, one in which we celebrated the gift of giving, the joy of gratitude.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=12071">What We Can Learn from Christmas Eve</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>Christmas Eve. The perfect picture of anticipation: sleepless excitement for something we’ve been waiting all year for.</p>
+<div id="attachment_12078" style="width: 640px" class="wp-caption aligncenter"><a href="http://goinswriter.com/wp-content/uploads/2013/12/christmas-eve.jpg"><img src="http://goinswriter.com/wp-content/uploads/2013/12/christmas-eve.jpg" alt="Christmas Eve" width="630" height="/" /></a><p class="wp-caption-text">Photo Credit: <a href="http://www.flickr.com/photos/50095927@N02/6969097271/">Pirata Larios</a> via <a href="http://compfight.com">Compfight</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></p></div>
+<p>Every year on December 24, my parents let us open a present. This was a teaser, a taste of things to come, and we kids relished it. Of course, it wasn’t much of a surprise &#8212; my mom almost always got us new pajamas, even when we didn’t need them. But still, it was a ritual of hope, one in which we celebrated the gift of giving, the joy of gratitude.</p>
+<p>Christmas morning: an unfortunate picture of disappointment.</p>
+<p>I am obviously only one person with his own set of experiences, but as I talk to others, I find similar feelings of frustration. As they get older, many people seem to develop a general distrust toward any day that promises to fill the emptiness they’ve felt all year long.</p>
+<p>This explains the rise in suicides during this season and why, for some, Christmas is a reminder of the inevitable letdown of life. The unfortunate answer to the question, “<a title="Christmas Spirit" href="http://goinswriter.com/christmas-spirit/" target="_blank">Did you get everything you wanted?</a>” is, of course, no. And we feel terrible about this.</p>
+<p>Why can’t we be happy? Why can’t we be satisfied? Will we ever be content with what we have, with the gifts in our stockings, the toys under the tree? Why this constant thirst for <i>more</i>? Maybe the answer lies in the night before the big day.</p>
+<h3>Enter Epiphany</h3>
+<p>When I was studying abroad in Spain my junior year of college, my host mom Loli told me Christmas Day is important in her culture but not celebrated the same way as in the U. S. The more she told me, the more I wondered if there was some hidden wisdom in how the Spaniards celebrated Christmas.</p>
+<p>She said her family gets together on December 24, <a title="Nochebuena" href="http://en.wikipedia.org/wiki/Nochebuena" target="_blank"><i>La Nochebuena</i></a> (“The Good Night”), and has a church service, sometimes followed by a gift exchange. The day, though, isn’t about gift-giving; it’s about celebration and commemoration, feasting and family. It’s not about “me.&#8221; It&#8217;s about “we,” about being together, not getting things from each other.</p>
+<p>This was a revelation to me, that an entire culture could avoid the pressure placed on a day typically about consumption and refocus it on slowing down. Instead of spiraling into credit card debt and frantically rushing around to pick up last-minute gifts, they simply enjoy the time they have together.</p>
+<p><em>Wow. </em>Could such a thing exist?</p>
+<p>Of course, that’s not to say the Spanish don’t give gifts. They do. On January 6, they, and many others around the world, celebrate Epiphany, a holiday I heard nothing about while growing up in the Midwest United States. This is the Day of the <a title="Magi" href="http://en.wikipedia.org/wiki/Biblical_Magi" target="_blank">Magi</a>, when the wise men traditionally brought gifts of frankincense, gold, and myrrh to baby Jesus. For many cultures around the world, <em>this</em> is when the gifts come.</p>
+<p>So what are they doing for those two weeks in between Christmas and Epiphany? Waiting, of course.</p>
+<p>Although we had several Bibles in the house while growing up, I didn’t often open one, except around Christmas. Every December, I’d peel back the leather cover of my dad’s Bible and read the story of Jesus’ birth. I’m not sure what drew me to it. I just knew there was something important in those pages that I was missing on TV and in the holiday movies I was seeing.</p>
+<p>Although I read the same story every year, I somehow missed the distinction between Christmas and Epiphany, the time in between the birth of Christ and the arrival of the magi. Some cultures build this wait time in to their celebration of Christmas. It seems to make the holiday, and the anticipation leading up to it, that much more significant.</p>
+<p>Such a tradition reminds us that every arrival is not an event, but a process. And I tend to forget that.</p>
+<h3>Christmas is about the waiting, not the arriving</h3>
+<p>What does this talk of Christmas and gifts and magi have to do with you and me and how we spend our everyday lives?</p>
+<p>I’m an adult now, and the glory of what December 25 once held has now faded. I no longer sit at the bottom of the basement stairs in the morning, awaiting the arrival of seven o’clock, my parents shouting down to tell me I can come up and see what Santa brought. But even now, I’m living in anticipation of things to come: not just in winter, but all seasons.</p>
+<p><strong>After years of learning important lessons about life, I now realize that the magic of Christmas was never about the day. It was always about the waiting.</strong></p>
+<p>Life is full of good things we haven’t yet experienced: finding a spouse, having that first child, taking the long-awaited vacation after years of hard work. Retiring. Graduating. Becoming who we always wanted to be. However, if we’re not careful, we can rush through the process of living on our way to the next big arrival. We can waste hours and days and years looking at our watches, eager for the following appointment.</p>
+<p>Our journey is full of rest stops, park benches and airport terminals, that signal the arrival of things we anticipate. Sometimes, they’re worth the wait; other times, the glory doesn’t shine quite like we’d hoped.</p>
+<p>Regardless, we need to learn to live in this tension, to appreciate what we have and still hope for. This process isn’t easy; we all know that. But it’s part of being human and what connects us to each other.</p>
+<h3>What&#8217;re we waiting for?</h3>
+<p>We are all waiting for something. And in the wait, there is a necessary tension, even frustration, that doesn’t fully resolve.</p>
+<p>This doesn’t mean some things aren’t worth waiting for. It just means we don’t always get what we want, and rarely does it come all at once.</p>
+<p>Believe it or not, this is a <em>good</em> thing. Just like the delayed gratification between Christmas and Epiphany, we need to understand that the wait sometimes is essential to appreciate the gifts that come, no matter how much we hate the process.</p>
+<p>So through the angst and anticipation, in our longing to have and be more, we need to learn:</p>
+<ul>
+<li>to enjoy this place,</li>
+<li>to slow down and be present, and</li>
+<li>to give thanks for it all.</li>
+</ul>
+<p>Maybe the lights on Christmas morning won&#8217;t shine as bright as you expected, but that&#8217;s because December 25 was never supposed to be the finale. It was always just the beginning. One more, albeit significant, day in the process of all things becoming new.</p>
+<p>And what better day to remember that we are not done, that the story is still left a little incomplete, and there is work yet to be done? What better day than Christmas?</p>
+<p>So tonight or tomorrow or whenever you might read this, I hope you remember Epiphany. Wherever you are in the process of becoming, I pray you pay attention to the undone-ness of life, the lack of resolution that often accompanies this season.</p>
+<p>And I implore you to appreciate that with every arrival comes a lack of resolution, one that keeps you waiting, keeps you longing, and truly keeps you <em>living</em>.</p>
+<div class="special">This was an adapted excerpt from my memoir, <em>The In-Between</em>. Download the first three chapters of the book for free <a title="The In-Between" href="http://inbetweenbook.com" target="_blank">right here</a>. Today is also the last day to nominate my blog for <a href="http://writetodone.com/top-10-blogs-for-writers-contest/" target="_blank">this contest.</a> </div>
+<p><strong>What lessons do you learn from Christmas Eve?</strong> Share in the <a title="Comments" href="http://goinswriter.com/christmas-eve/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=12071">What We Can Learn from Christmas Eve</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/h0xRRnzPHMI" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/christmas-eve/feed/</wfw:commentRss>
+		<slash:comments>61</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/christmas-eve/</feedburner:origLink></item>
+		<item>
+		<title>A Simple Way to Carve Out Time in Your Week for What Really Matters</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/KPn63tHsDpk/</link>
+		<comments>http://goinswriter.com/shave-time/#comments</comments>
+		<pubDate>Mon, 22 Dec 2014 10:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Productivity]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15610</guid>
+		<description><![CDATA[For seven years, I worked for a nonprofit, managing teams in various departments and communicating with team members and colleagues. Inevitably, this meant a lot of communication with a lot of different people every day, which felt like I was being productive, but in fact was the opposite.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15610">A Simple Way to Carve Out Time in Your Week for What Really Matters</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>For seven years, I worked for a nonprofit, managing teams in various departments and communicating with team members and colleagues. Inevitably, this meant a lot of communication with a lot of different people.</p>
+<p><a href="http://goinswriter.com/wp-content/uploads/CarveTime_1.png"><img class="aligncenter size-large wp-image-15864" src="http://goinswriter.com/wp-content/uploads/CarveTime_1.png" alt="A Simple Way to Carve Out Time in Your Week for What Really Matters" width="660" /></a>I felt like I was being productive, but in fact it was the opposite.</p>
+<p>This is one of the biggest challenges facing any growing organization. As you get bigger, you create <a title="Creative Productivity System" href="http://goinswriter.com/creative-productivity-system/" target="_blank">systems</a> and hire people to help you scale for growth. But with each step towards <em>bigger</em>, you increase your distance from the work you set out to do. Or at least, that&#8217;s the temptation.</p>
+<p>In my case, I was spending four to six hours a day in my email inbox, on the phone, and in meetings. And I wasn&#8217;t getting any of the real work that needed doing, done. It all felt so overwhelming.</p>
+<p>Some days, I just went from one meeting to the next. Others, I&#8217;d send and receive hundreds of emails, ending the day with a false sense of accomplishment, like my worth was tied up in my ability to reply to everyone else&#8217;s needs.</p>
+<p>I was busy doing many things but wasn&#8217;t accomplishing the most important things.</p>
+<h3>The difference between busy and productive</h3>
+<p>The difference between busyness and <a title="How to Jumpstart Your Productivity" href="http://goinswriter.com/jumpstart-productivity/" target="_blank">productivity</a> is this:</p>
+<p>Staying busy is what happens when you are caught constantly responding to the most urgent needs around you.</p>
+<p>Being productive is the result of actively addressing the most important items on your own to-do list.</p>
+<p>The latter takes discipline and a good deal of saying no, but it can mean a lot less stress and anxiety for you and a lot more of the essential stuff getting done.</p>
+<p>Most everyone I talk to is busy. We all have more than enough to do on our plates. We can&#8217;t possibly respond to every need that comes our way. So being intentional about how we do respond to the daily demands on our time is essential to doing work we can be proud of.</p>
+<p>But this is much easier said than done. The main areas people struggle with this are:</p>
+<ul>
+<li>Having too many things to do.</li>
+<li>Constantly responding to other people&#8217;s requests.</li>
+<li>Talking about doing things instead of doing them.</li>
+</ul>
+<p>A simple way for you to stop being busy doing so many things and start focusing on the most important things is for you to regain control of your schedule. The fruit of such a decision can be nothing short of life-changing.</p>
+<p>When you start making your schedule work for you instead of the other way around, you begin to focus on what matters most. And you leave the rest in the &#8220;someday&#8221; category. It can feel pretty liberating.</p>
+<h3>Three daily disciplines to master</h3>
+<p>So let&#8217;s go back to my days at the nonprofit and how I regained control of my day-to-day. There were a few things I did, but in a nutshell, I stopped reacting to my day and instead starting attacking it with intention. Here&#8217;s what that looks like:</p>
+<ol>
+<li><strong>Decide to do one important thing every day.</strong> Having a daily to-do list of a dozen items that each take at least an hour to accomplish is going to leave you feeling frustrated and overwhelmed. Instead, set one absolutely important task for the day that you have to do. Everything after that is gravy.</li>
+<li><strong>Wait an hour before checking email.</strong> Use this first hour of the day to focus on your most important priority. And here&#8217;s the kicker: actually do it. Don&#8217;t procrastinate or wait; just get the deed done. You&#8217;ll be surprised how much momentum you feel throughout your day after doing this. (Pro tip: check email once in the morning and once in the afternoon.)</li>
+<li><strong>Batch your meetings.</strong> Even on days when I only had a handful of meetings, I noticed that it was hard to get into a productive groove when every couple hours I had a meeting or phone call. The disruption made it difficult to focus. I was drifting from one thing to the next, being ruled by other people&#8217;s schedules, but wasn&#8217;t getting my own stuff done.</li>
+</ol>
+<p>That&#8217;s it. Don&#8217;t react to your day; attack it. Make your schedule work for you, not the other way around. [<a title="Tweet that" href="http://ctt.ec/iztSr" target="_blank">Tweet</a>]</p>
+<h3>Still struggling? Start here&#8230;</h3>
+<p>You don&#8217;t have to be amazing to get started. I struggle with these things on a daily basis. One of the most embarrassing parts about being a <a title="Full-time writer" href="http://goinswriter.com/full-time/" target="_blank">full-time writer</a> is that I still have to fight for time to write. Every single day.</p>
+<p>But if I don&#8217;t schedule it and prioritize it, it doesn&#8217;t get done. And I know I&#8217;m not the only one. So if all this feels overwhelming or like too much to handle, just pick one discipline to start: <strong>Try waiting to check email or schedule anything for that first hour of the day, and then do the same for the last hour of the day. </strong></p>
+<p>That alone would give you back an extra 10 hours a week (one hour at the beginning of the day and one at the end, times five). And this is just the beginning of a whole world of possibilities.</p>
+<p><strong>Note:</strong> This idea of <a title="Shave 10 Hours Off Your Week" href="http://michaelhyatt.com/how-to-shave-ten-hours-off-your-work-week.html" target="_blank">shaving 10 hours off your work week</a> was originated by <a href="http://michaelhyatt.com/" target="_blank">Michael Hyatt</a>.</p>
+<p><strong>What could <em>you</em> do with an extra ten hours a week? </strong>Share in the <a title="Comments" href="http://goinswriter.com/shave-time/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15610">A Simple Way to Carve Out Time in Your Week for What Really Matters</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/KPn63tHsDpk" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/shave-time/feed/</wfw:commentRss>
+		<slash:comments>51</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/shave-time/</feedburner:origLink></item>
+		<item>
+		<title>036: The Secret to Setting Goals That Actually Get Done: Michael Hyatt Interview [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/NvegL-8U1ko/</link>
+		<comments>http://goinswriter.com/setting-goals-podcast/#comments</comments>
+		<pubDate>Wed, 17 Dec 2014 23:03:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15793</guid>
+		<description><![CDATA[How does fear fit in with a happy life? Fear and discomfort are usually avoided at all costs. But according to Michael Hyatt, those are key indicators that we are on the right track<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15793">036: The Secret to Setting Goals That Actually Get Done: Michael Hyatt Interview [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>Fear is something we usually avoid at all costs. But when it comes to setting and achieving goals, are fear and discomfort avoidable? How do fear and discomfort fit in with a happy life?</p>
+<p><a href="http://goinswriter.com/wp-content/uploads/pl_header_ep-036_1.png"><img class="aligncenter size-large wp-image-15794" src="http://goinswriter.com/wp-content/uploads/pl_header_ep-036_1.png" alt="The Secret to Setting Goals that Actually Get Done: Interview with Michael Hyatt [Podcast]" width="660" height= /></a></p>
+<p>According to <a href="http://michaelhyatt.com/" target="_blank">Michael Hyatt</a>, those are key indicators that we are on the right track.</p>
+<p>I recently had the chance to chat with Michael about setting and achieving goals. We talked about his 5-day process for goal setting. And the reasons why some people are able to achieve their goals while others don&#8217;t.</p>
+<p>We all start with good intentions. But good intentions don&#8217;t translate to lasting change and we usually give up. Failure doesn&#8217;t happen because our intentions are flawed. Failure happens because the process is flawed.</p>
+<p>Michael tells us about the seven major life areas that need goals to help us be well-rounded, successful people. Because the truth is, each area of life impacts the other.</p>
+<p>In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, Michael shares how happiness is not found in arriving at the destination but in the journey.</p>
+<blockquote><p><em>We are never more happy than when we are making significant progress toward a goal that matters to us.</em></p></blockquote>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below (if viewing this in email, <a href="http://goinswriter.com/setting-goals-podcast/ " target="_blank">click here</a>).</p>
+
+<p>You can also download it at <a title="iTunes" href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a title="Stitcher" href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<p>Listen in as Michael talks about the process of setting goals and how to have the best year ever.</p>
+<h3>Show highlights</h3>
+<p>In this episode we discuss:</p>
+<ul>
+<li>How fear is an important marker that we are doing something important</li>
+<li>The difference between a New Year&#8217;s resolution and a bonafide goal</li>
+<li>The ideal number of goals to set &#8212; Can there be too few or too many?</li>
+<li>Why it&#8217;s more important to set difficult goals rather than easy ones</li>
+<li>Essential ingredients to achieving goals</li>
+</ul>
+<h3>About my guest</h3>
+<p>Michael Hyatt is a best selling author and sought after speaker. On <a href="http://michaelhyatt.com/" target="_blank">his personal blog</a> he writes about personal development, leadership, productivity, platform, and publishing.</p>
+<p>I hope you enjoyed the interview. You’re welcome to download it and share it with your friends. Also, I’d love it if you take a moment <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a> (this helps more people find the podcast).</p>
+<div class="special">In this <a href="http://bestyearever.me/jeffgoins/roadmap" target="_blank">free video series</a>, Michael shares strategies to create a solid foundation for success with your goals. You can find out more about 5 Days to Your Best Year Ever <a href="http://bestyearever.me/jeffgoins/register" target="_blank">here</a>.</div>
+<p><b>Do you have written goals?</b> Share in the <a title="Comments" href="http://goinswriter.com/setting-goals-podcast/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15793">036: The Secret to Setting Goals That Actually Get Done: Michael Hyatt Interview [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/NvegL-8U1ko" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/setting-goals-podcast/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_036_-_Michael_Hyatt_Intervi.mp3" length="86183912" type="audio/mpeg" />
+		<itunes:subtitle>How does fear fit in with a happy life? Fear and discomfort are usually avoided at all costs. But according to Michael Hyatt, those are key indicators that we are on the right track</itunes:subtitle>
+		<itunes:summary>Fear is something we usually avoid at all costs. But when it comes to setting and achieving goals, are fear and discomfort avoidable? How do fear and discomfort fit in with a happy life?
+
+(http://goinswriter.com/wp-content/uploads/pl_header_ep-036_1.png)
+
+According to Michael Hyatt (http://michaelhyatt.com/), those are key indicators that we are on the right track.
+
+I recently had the chance to chat with Michael about setting and achieving goals. We talked about his 5-day process for goal setting. And the reasons why some people are able to achieve their goals while others don't.
+
+We all start with good intentions. But good intentions don't translate to lasting change and we usually give up. Failure doesn't happen because our intentions are flawed. Failure happens because the process is flawed.
+
+Michael tells us about the seven major life areas that need goals to help us be well-rounded, successful people. Because the truth is, each area of life impacts the other.
+
+In this episode of The Portfolio Life (http://goinswriter.com/itunes), Michael shares how happiness is not found in arriving at the destination but in the journey.
+We are never more happy than when we are making significant progress toward a goal that matters to us.
+Listen to the podcast
+To listen to the show, click the player below (if viewing this in email, click here (http://goinswriter.com/setting-goals-podcast/ )).
+
+
+
+You can also download it at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+
+Listen in as Michael talks about the process of setting goals and how to have the best year ever.
+Show highlights
+In this episode we discuss:
+
+	* How fear is an important marker that we are doing something important
+	* The difference between a New Year's resolution and a bonafide goal
+	* The ideal number of goals to set -- Can there be too few or too many?
+	* Why it's more important to set difficult goals rather than easy ones
+	* Essential ingredients to achieving goals
+
+About my guest
+Michael Hyatt is a best selling author and sought after speaker. On his personal blog (http://michaelhyatt.com/) he writes about personal development, leadership, productivity, platform, and publishing.
+
+I hope you enjoyed the interview. You’re welcome to download it and share it with your friends. Also, I’d love it if you take a moment leave a review on iTunes (http://goinswriter.com/itunes) (this helps more people find the podcast).
+
+
+
+Do you have written goals? Share in the comments (http://goinswriter.com/setting-goals-podcast/#disqus_thread).</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>35:38</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/setting-goals-podcast/</feedburner:origLink></item>
+		<item>
+		<title>Who Else Wants the Audience Their Words Deserve?</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/tBZTIhUlsm4/</link>
+		<comments>http://goinswriter.com/audience-you-deserve/#comments</comments>
+		<pubDate>Tue, 16 Dec 2014 10:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=9400</guid>
+		<description><![CDATA[For years, I looked at mediocre bloggers making a dent in the Internet and grimaced. I seethed and passed judgment, quietly growing bitter. I told myself (and others) that I could do better.
+
+I wasted a lot of time talking about writing, even thinking about it, but did very little of it myself.
+
+I was a fake.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=9400">Who Else Wants the Audience Their Words Deserve?</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>If there&#8217;s one thing that bugs me as a writer, one thing I can&#8217;t stand as an artist, it&#8217;s this: The world&#8217;s best writers aren&#8217;t always the ones getting the most attention. Why is that?</p>
+<div id="attachment_9415" style="width: 580px" class="wp-caption aligncenter"><a href="http://tribewriters.com/join/"><img class="size-medium wp-image-9415 " src="http://goinswriter.com/wp-content/uploads/2012/12/audience-you-deserve-570x380.jpg" alt="Theater seats" width="570" height="380" /></a><p class="wp-caption-text">Photo credit: <a href="http://www.flickr.com/photos/dkorobtsov/5245094582/in/photostream/">Dmitri Korobtsov</a> (Creative Commons)</p></div>
+<p>For years, I looked at mediocre bloggers making a dent in the Internet and grimaced. I seethed and passed judgment, while growing bitter. I thought I could do better. But I was kidding myself.</p>
+<p>I wasted a lot of time talking about writing, even thinking about it, but did very little of it myself. I was a <em>fake</em>. Then I had an epiphany&#8230;</p>
+<p>Three years ago, my life, and my writing, started to change. I began calling my own bluff. I stopped talking and started doing. It all came down to a fundamental shift in what I believed about myself. I stopped saying I <em>wanted</em> to write and began calling myself a writer. Then I started acting like it.</p>
+<p>The results were staggering. Over the course of eight months, I had:</p>
+<ul>
+<li>over 100,000 monthly blog readers,</li>
+<li>a book contract, and</li>
+<li>more attention than I knew what to do with it.</li>
+</ul>
+<p>I wondered: <em>What if one day, I could share this process with others?</em></p>
+<h3>This took two years to build</h3>
+<p>Two years ago, I launched an <a title="Tribe Writers" href="http://tribewriters.com" target="_blank">online course</a> that took me over eight months to build. Since then, we&#8217;ve been tweaking things, making it the best online community writers we could.</p>
+<p>Finally, I gave into the requests I was getting via email to teach what I had learned about writing and building an audience.</p>
+<p>Initially, we opened registration to a small group of readers. Immediately, I was overwhelmed by the response: over 450 people signed up to be part of the charter group.</p>
+<p>Together, students and teacher, we went through the content (a total of 30+ multimedia lessons and over a dozen expert interviews), covering the following material in four modules:</p>
+<ol>
+<li>How to <strong>hone your writing voice</strong> and find a worldview that resonates with an audience</li>
+<li>The importance of <strong>establishing a platform</strong> and building a list</li>
+<li>What it takes to <strong>expand your reach</strong> and serve your way into relationship</li>
+<li>Why you need to <strong>get published</strong> and share your work with the world</li>
+</ol>
+<p>As we went along, students gave feedback and critiques on the lessons. When they finished, I spent another month applying what they&#8217;d told me, just because I wanted it to be the best it could be.</p>
+<h3>One of the most rewarding things I&#8217;ve done</h3>
+<p>We called the finished product <a href="http://tribewriters.com/join/">Tribe Writers:</a> an online membership program to help you find the audience your writing deserves. And it&#8217;s one of the most rewarding things I&#8217;ve done with my platform so far.</p>
+<p>Sure, it took the greater part of a year to build and maybe I could&#8217;ve rushed the process, but this is something I&#8217;m proud of.</p>
+<p>Despite friends telling me I&#8217;m crazy for charging less than the market rate, I wanted to make something not for the social elite, but for anyone who wanted to improve their craft.</p>
+<p><strong>The course opens up for registration a few times per year, and each time we add a new feature. It&#8217;s something that gets better with time. Which means now is the best time to <a title="Join Tribe Writers" href="http://tribewriters.com/join/" target="_blank">join</a>. We won&#8217;t re-open again for six months.</strong></p>
+<p>Tribe Writers is more than a one-and-done course. It&#8217;s a dynamic, creative community that will support you in meeting your lifelong writing goals.</p>
+<p>It lasts <strong>eight weeks</strong>, consisting of <strong>30+ multimedia lessons</strong> broken into <strong>four modules</strong>, weekly emails, an online <strong>discussion forum</strong>, and other special features (which we&#8217;re always updating and improving).</p>
+<h3>Five reasons to join now</h3>
+<p>Because I believe in over-delivering, I&#8217;ve included five incentives to sign up for this next class:</p>
+<ul>
+<li><strong>LIFETIME MEMBERSHIP</strong> to a community of 2000+ writers</li>
+<li><b>ACCESS TO ME </b>through monthly conference calls</li>
+<li><strong>BONUS CONTENT</strong>, including expert interviews with <em>NY Times</em> best-selling authors and popular bloggers (in addition to audio, video, and text lessons)</li>
+<li><strong>ONLINE SUPPORT</strong> to answer all your questions (plus access to archived conference calls and other teachings from previous classes)</li>
+<li><strong>FREE STUFF</strong> worth over $500 (just for signing up)</li>
+</ul>
+<p>When you <a title="Join Tribe Writers" href="http://tribewriters.com/join/" target="_blank">join Tribe Writers</a>, you&#8217;ll immediately get the chance to join a group of writers who are all going through the same struggles you&#8217;re experiencing and who want to help you win with your words.</p>
+<p>Through the process, you will get coaching and encouragement, maybe even some lifelong friends.</p>
+<h3>What the students say</h3>
+<p>I asked some of students to share what they got out of the course, and here&#8217;s what they said:</p>
+<blockquote><p><em>Jeff has provided invaluable material at a frightfully low price. The contributions and links the rest of you have made have taught me a lot as well. I may have a master&#8217;s degree in writing, but now I feel I have the tools necessary to reach my readers.<br />
+</em><strong>—Eric von Mizener</strong></p></blockquote>
+<blockquote><p><em>Starting from nothing — no drafts, no writings, no concepts — I have in the short span of eight weeks created a self-hosted blog with content, learned how to write for an authentic audience and found the deeper meaning of what it means to be a writer.<br />
+</em><strong>—Jennifer Humble</strong></p></blockquote>
+<blockquote><p><em>Before this course, I was afraid to publish an ebook and take the steps required to grow my blog. Now I&#8217;ve finished an e-book/manifesto and have tripled the size of my blog subscriber list.<br />
+</em><strong>—James Prescott</strong></p></blockquote>
+<blockquote><p><em>Before this course I wrote 100 words a day. Now, I write 1,000 to 2,000 a day.<br />
+</em><strong>—Devan Crable</strong></p></blockquote>
+<blockquote><p><em>Tribe Writers reignited my passion for writing and blogging! Even if you already know what you are doing (or think you do) this course will take to the next level and a few levels above that one!</em><br />
+<strong>—Bryan Hutchinson</strong></p></blockquote>
+<p>You can read more of these and hear a whole lot <a title="Join Tribe Writers" href="http://tribewriters.com/join/" target="_blank">more about the course here</a>.</p>
+<h3>Time to find your tribe</h3>
+<p><a href="http://tribewriters.com/join/"><img class="alignright size-full wp-image-9447" title="Tribe Writers" src="http://goinswriter.com/wp-content/uploads/2012/12/TW-2.jpg" alt="Tribe Writers" width="300" height="300" /></a></p>
+<p>Ever wondered what it takes to get your writing noticed? This course will tell you. It&#8217;s a marketing course for writers and a writing course for marketers. I think you&#8217;ll like it.</p>
+<p><a title="Tribe Writers" href="http://tribewriters.com/join/" target="_blank">Tribe Writers</a> does, in my opinion, what so few courses do. It combines the craft of writing with practical elements of online marketing, all designed to make you a better writer and help your message spread.</p>
+<p>If you&#8217;re thinking about this, I encourage you to give it a try! There&#8217;s a <strong>30-day money-back guarantee</strong>, so you can always ask for a refund if it&#8217;s not what you thought.</p>
+<p>The world needs your message. I really believe that. Whether you go through Tribe Writers or not, I hope you will share it. Find out more about Tribe Writers and get started building the audience your words deserve by <a title="Join Tribe Writers" href="http://tribewriters.com/join/" target="_blank">clicking here</a>.</p>
+<p><strong>What would joining Tribe Writers do for you?</strong> Share in the <a title="Comments" href="http://goinswriter.com/audience-you-deserve/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=9400">Who Else Wants the Audience Their Words Deserve?</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/tBZTIhUlsm4" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/audience-you-deserve/feed/</wfw:commentRss>
+		<slash:comments>98</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/audience-you-deserve/</feedburner:origLink></item>
+		<item>
+		<title>035: What About Me? Avoiding the Comparison Trap [Podcast]</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/xv9iX_my40Q/</link>
+		<comments>http://goinswriter.com/comparison-trap/#comments</comments>
+		<pubDate>Fri, 12 Dec 2014 10:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Creativity]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15679</guid>
+		<description><![CDATA[Let's be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are envious. This envy often leads to guilt and shame. But is it always such a bad thing?<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15679">035: What About Me? Avoiding the Comparison Trap [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>Let&#8217;s be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are <em>envious</em>. This envy often leads to guilt and shame. But is it always such a bad thing?</p>
+<p><img class="aligncenter" src="http://goinswriter.com/wp-content/uploads/PL_Header_Ep-035_1.png" width="660" alt="" /></p>
+<p>It’s easy to see someone else’s success and compare yourself to what you <em>think</em> you see. Their finished product looks great, they <em>must</em> have it together. &#8220;Why don’t I feel <em>that</em> confident or competent?&#8221;<em> </em>you wonder.<em> </em></p>
+<p>Or maybe you see someone doing the same thing you&#8217;re doing but experiencing far greater success. Why <em>is</em> that? What makes their work better than yours? On the surface, this kind of comparison feels detrimental. But perhaps, there&#8217;s a way redeem this &#8220;trap&#8221; and use it for good.</p>
+<p>Here&#8217;s the truth:</p>
+<p><strong>Envy isn’t always bad. Complacency is. Envy is an indication of something you want, but don’t yet have.</strong> [<a title="tweet" href="http://ctt.ec/tk3Yv" target="_blank">Tweet that</a>]</p>
+<p>The hidden benefit of comparison is that you can use it to push forward. In this episode of <a href="http://goinswriter.com/itunes" target="_blank">The Portfolio Life</a>, my co-host Andy Traub and I talk about how we both have struggled with comparison, what we’ve done about it, and how you can turn your comparison into motivation.</p>
+<h3>Listen to the podcast</h3>
+<p>To listen to the show, click the player below. (If you’re reading this via email, <a href="http://goinswriter.com/comparison-trap/" target="_blank">click here</a>).</p>
+
+<p>You can also listen at <a href="http://goinswriter.com/itunes" target="_blank">iTunes</a> or on <a href="http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr" target="_blank">Stitcher</a>.</p>
+<p>Join us as we explore this tension between envy and motivation and why the two can go hand in hand. Admiring someone else&#8217;s success gives you something to strive for. In other words, envy, with the right motivation, can help you succeed.</p>
+<p>Many of us feel like we&#8217;re competing with our friends or peers. But wanting to be better than everyone else is an empty pursuit. The real question is do we want to be better than we were yesterday?</p>
+<h3>Show highlights</h3>
+<p>In this episode we discuss:</p>
+<ul>
+<li>Some questions you can ask yourself when you’re feeling jealous (so you don&#8217;t get stuck in that &#8220;What about me?&#8221; trap)</li>
+<li>The difference between a fixed mindset and a growth mindset and why understanding this will change everything for you</li>
+<li>How to use your envy to become a more <a title="How I Get Things Done" href="http://goinswriter.com/get-things-done/" target="_blank">productive</a> person</li>
+<li>Practical tips for intentional self-improvement, even when you&#8217;re feeling jealousy or unworthy</li>
+</ul>
+<blockquote><p><em>Your job as a creative is to be a little bit better today than you were yesterday.</em> (<a title="tweet" href="http://ctt.ec/gFY72" target="_blank">Tweet that</a>)</p></blockquote>
+<h3>Resources mentioned in the show</h3>
+<ul>
+<li><a title="99U article" href="http://99u.com/articles/33341/comparison-trap-envy-jealous-success-coworkers-friends" target="_blank">The Comparison Trap: How to Enjoy (and not Envy) the Success of Others Online</a> at 99U</li>
+<li><em><a title="Psychology of Success" href="http://amzn.to/1shTCWt" target="_blank">Mindset: The New Psychology of Success</a></em> by Carol Dweck (affiliate link)</li>
+<li><em><a title="The Innovators" href="http://amzn.to/1snbhX4" target="_blank">The Innovators</a></em> by Walter Isaacson (affiliate link)</li>
+<li><em><a title="Flow" href="http://www.amazon.com/gp/product/0061339202/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0061339202&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=JWRXM3NUVSJMIQQY" target="_blank">Flow: The Psychology of Optimal Experience</a></em> by Mihaly Csikszentmihaly (affiliate link)</li>
+</ul>
+<p>You can also sign up for an <a title="Audible" href="http://goinswriter.com/audible/" target="_blank">Audible</a> membership (my preferred way to listen to audiobooks and how I am able to read several books each month) and <a title="Audible" href="http://goinswriter.com/audible" target="_blank">get your first book for free</a> (also an affiliate link).</p>
+<p>I hope you enjoyed this week&#8217;s episode. If you know someone who would benefit from it, feel free to download and share it. Since iTunes only cares about comparison, we&#8217;d appreciate it if you would <a title="Podcast" href="http://goinswriter.com/itunes" target="_blank">leave a review on iTunes</a>.</p>
+<div class="special"><strong>Note:</strong> My online course, <a title="Tribe Writers" href="http://tribewriters.com" target="_blank">Tribe Writers</a>, opened for registration this week, along with a new bonus &#8212; my brand new course on blogging! This will be the last time this course is available until June 2015. <a title="Tribe Writers" href="http://tribewriters.com" target="_blank">Find out more by clicking here</a>. </div>
+<p><b>How do you deal with the comparison trap?</b> Share in the <a href="http://goinswriter.com/comparison-trap/#disqus_thread" target="_blank">comments</a>.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15679">035: What About Me? Avoiding the Comparison Trap [Podcast]</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/xv9iX_my40Q" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/comparison-trap/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+<enclosure url="http://traffic.libsyn.com/jeffgoins/PL_035_-_Comparison__What_About_Me.mp3" length="79710068" type="audio/mpeg" />
+		<itunes:subtitle>Let's be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are envious. This envy often leads to guilt and shame. But is it always such a bad thing?</itunes:subtitle>
+		<itunes:summary>Let's be honest for a moment. At times, we all want what other people have. We long for the fame and fortune we seem to be missing out on. We are envious. This envy often leads to guilt and shame. But is it always such a bad thing?
+
+(http://goinswriter.com/wp-content/uploads/PL_Header_Ep-035_1.png)
+
+It’s easy to see someone else’s success and compare yourself to what you think you see. Their finished product looks great, they must have it together. "Why don’t I feel that confident or competent?" you wonder. 
+
+Or maybe you see someone doing the same thing you're doing but experiencing far greater success. Why is that? What makes their work better than yours? On the surface, this kind of comparison feels detrimental. But perhaps, there's a way redeem this "trap" and use it for good.
+
+Here's the truth:
+
+Envy isn’t always bad. Complacency is. Envy is an indication of something you want, but don’t yet have. [Tweet that (http://ctt.ec/tk3Yv)]
+
+The hidden benefit of comparison is that you can use it to push forward. In this episode of The Portfolio Life (http://goinswriter.com/itunes), my co-host Andy Traub and I talk about how we both have struggled with comparison, what we’ve done about it, and how you can turn your comparison into motivation.
+Listen to the podcast
+To listen to the show, click the player below. (If you’re reading this via email, click here (http://goinswriter.com/comparison-trap/)).
+
+
+
+You can also listen at iTunes (http://goinswriter.com/itunes) or on Stitcher (http://www.stitcher.com/podcast/jeff-goins/the-portfolio-life-with-jeff-goins?refid=stpr).
+
+Join us as we explore this tension between envy and motivation and why the two can go hand in hand. Admiring someone else's success gives you something to strive for. In other words, envy, with the right motivation, can help you succeed.
+
+Many of us feel like we're competing with our friends or peers. But wanting to be better than everyone else is an empty pursuit. The real question is do we want to be better than we were yesterday?
+Show highlights
+In this episode we discuss:
+
+	* Some questions you can ask yourself when you’re feeling jealous (so you don't get stuck in that "What about me?" trap)
+	* The difference between a fixed mindset and a growth mindset and why understanding this will change everything for you
+	* How to use your envy to become a more productive (http://goinswriter.com/get-things-done/) person
+	* Practical tips for intentional self-improvement, even when you're feeling jealousy or unworthy
+
+Your job as a creative is to be a little bit better today than you were yesterday. (Tweet that (http://ctt.ec/gFY72))
+Resources mentioned in the show
+
+	* The Comparison Trap: How to Enjoy (and not Envy) the Success of Others Online (http://99u.com/articles/33341/comparison-trap-envy-jealous-success-coworkers-friends) at 99U
+	* Mindset: The New Psychology of Success (http://amzn.to/1shTCWt) by Carol Dweck (affiliate link)
+	* The Innovators (http://amzn.to/1snbhX4) by Walter Isaacson (affiliate link)
+	* Flow: The Psychology of Optimal Experience (http://www.amazon.com/gp/product/0061339202/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0061339202&amp;linkCode=as2&amp;tag=goiwri-20&amp;linkId=JWRXM3NUVSJMIQQY) by Mihaly Csikszentmihaly (affiliate link)
+
+You can also sign up for an Audible (http://goinswriter.com/audible/) membership (my preferred way to listen to audiobooks and how I am able to read several books each month) and get your first book for free (http://goinswriter.com/audible) (also an affiliate link).
+
+I hope you enjoyed this week's episode. If you know someone who would benefit from it, feel free to download and share it. Since iTunes only cares about comparison, we'd appreciate it if you would leave a review on iTunes (http://goinswriter.com/itunes).
+
+
+
+How do you deal with the comparison trap? Share in the comments (http://goinswriter.com/comparison-trap/#disqus_thread).</itunes:summary>
+		<itunes:author>Jeff Goins</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>32:56</itunes:duration>
+	<feedburner:origLink>http://goinswriter.com/comparison-trap/</feedburner:origLink></item>
+		<item>
+		<title>Here’s How to Get People to Care About What You Create</title>
+		<link>http://feedproxy.google.com/~r/GoinsWriter/~3/7QLy8aoRHc8/</link>
+		<comments>http://goinswriter.com/heres-a-simple-way-to-get-people-to-care-about-what-you-create/#comments</comments>
+		<pubDate>Wed, 10 Dec 2014 15:24:26 +0000</pubDate>
+		<dc:creator><![CDATA[Jeff Goins]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://goinswriter.com/?p=15704</guid>
+		<description><![CDATA[There's a question every person is asking when they pick up your book, glance at your website, or consider buying your product. And it’s something we creators don’t often think about.<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15704">Here's How to Get People to Care About What You Create</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div>]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s a question every person is asking when they pick up your book, glance at your website, or consider buying your product. And it’s something we creators don’t often think about.</p>
+<div id="attachment_15708" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-15708" src="http://goinswriter.com/wp-content/uploads/15078893576_65ce047fe7_b-630x420.jpg" alt="Photo Credit: Ian Sane via Compfight cc" width="630" height="420" /><p class="wp-caption-text">Photo Credit: <a href="https://www.flickr.com/photos/31246066@N04/15078893576/">Ian Sane</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></p></div>
+<p>“What’s in it for me?”</p>
+<p>This is what every audience member and prospective customer is thinking, whether it’s consciously or not. And the best thing you can do to make a difference with your art, to share a message that connects, is to answer that question before they ask it. In other words, make your work so valuable that sharing it is a no-brainer. </p>
+<p>Some examples include:</p>
+<ul>
+<li>Offering an eBook that you could charge for and instead give it away to anyone who signs up for your email newsletter.</li>
+<li>Spend an entire year (as I did) being as generous as you possibly can be to whatever readers you have, without asking for a thing.</li>
+<li>Offer the first 15 minutes of a coaching or counseling session for free so that potential clients can see the clear value you offer.</li>
+</ul>
+<p><strong>Instead of making it about you, make it about them.</strong></p>
+<p>A funny thing tends to happen when we take this generous approach with our creations: When you make it about them, they’ll make it about you.</p>
+<p>You know this already, of course. You just need to apply it. You’ve heard that people won’t care about you until you’ve shown them how much you care. The same is true here. We have to discipline ourselves to not be selfish, to open up our hands and not be stingy with the world.</p>
+<p>I think you just might be surprised at the response you get.</p>
+<div class="special">To see exactly what I mean, watch this video (and don’t miss the other two in this free series I’m doing): <a href="https://my.leadpages.net/leadbox/140c6c573f72a2%3A1245e56aeb46dc/5709588863123456/" target="_blank">Check it out.</a><script src="//my.leadpages.net/leadbox-810.js" type="text/javascript" data-leadbox="140c6c573f72a2:1245e56aeb46dc" data-url="https://my.leadpages.net/leadbox/140c6c573f72a2%3A1245e56aeb46dc/5709588863123456/" data-config="%7B%7D"></script></div>
+<p><strong>What could you share with your audience?</strong> Tell me in the comments.</p>
+<div class="tentblogger-rss-footer"><hr /><p>You just finished reading <a href="http://goinswriter.com/?p=15704">Here's How to Get People to Care About What You Create</a>!  Consider leaving a comment!</p><p>Are you ready to embrace the "in-between" and experience all life has to offer? Check out <a href="http://inbetweenbook.com">my new book</a>.</p></div><img src="//feeds.feedburner.com/~r/GoinsWriter/~4/7QLy8aoRHc8" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://goinswriter.com/heres-a-simple-way-to-get-people-to-care-about-what-you-create/feed/</wfw:commentRss>
+		<slash:comments>48</slash:comments>
+		<feedburner:origLink>http://goinswriter.com/heres-a-simple-way-to-get-people-to-care-about-what-you-create/</feedburner:origLink></item>
+	</channel>
+</rss>
