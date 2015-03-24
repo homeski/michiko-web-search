@@ -1,4 +1,4 @@
 *.log
 tlog/
 index/
-web/bower/
+bower_components/
